@@ -27,10 +27,8 @@ In the study, three local vegetable growers were tasked with setting up two sepa
 
 Unfortunately, measuring BRIX does not tell the whole story and is why soil, leaf, and fruit samples were sent to laboratories for chemical analysis.
 
-Method
-
 ----
-
+SLASKHINK
 In the wake of corona and the conflict in Russia and Ukraine, synthetic fertilizer prices have sky-rocketed. Before the conflict, fertilizers were also a considerable expense for many farmers and growers. Some of which could probably be made on-farm with a bit of time and effort from the grower. 
 
 In later years, with the regenerative agriculture movement, farmers have shifted their use of synthetic fertilizers for more natural ways of growing food. They are trying to mimic nature and tap into the powers of biology in, on, and around plants. Soil biology and soil health are pivotal concepts in regenerative agriculture, and a whole market of different living amendments has shown up.
