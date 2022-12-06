@@ -13,8 +13,6 @@ During the season a series of tests and analysises was performed:
 - measure BRIX (once every second week),
 - measure vitamin C and lycopene to indicate the fruit quality
 
-MORE TO COME
-
 ## Introduction
 
 A biofertilizer is: "... a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant." [https://en.wikipedia.org/wiki/Biofertilizer]
@@ -31,7 +29,9 @@ The reason for measuring BRIX is since it is pretty easy and quick, and somethin
 
 Unfortunately, measuring BRIX does not tell the whole story and is why soil, leaf, and fruit samples were sent to laboratories for chemical analysis.
 
-The case study was made in Kungälv and Ljungskile in Västra Götaland, Sweden and made possible with the funding of `Leader Södra Bohuslän` and `Jordbruksverket`.
+The location of the case study is on the west coast of Sweden, in Kungälv, Stenungssund and Ljungskile (20-60 km north of Gothenburg).  
+
+ The study is made possible with the funding of `Leader Södra Bohuslän` and `Jordbruksverket`.
 
 ## Method
 
@@ -93,9 +93,3 @@ The interview is open and in-depth.
 ## Result
 
 
-
-----
-SLASKHINK
-In the wake of corona and the conflict in Russia and Ukraine, synthetic fertilizer prices have sky-rocketed. Before the conflict, fertilizers were also a considerable expense for many farmers and growers. Some of which could probably be made on-farm with a bit of time and effort from the grower. 
-
-In later years, with the regenerative agriculture movement, farmers have shifted their use of synthetic fertilizers for more natural ways of growing food. They are trying to mimic nature and tap into the powers of biology in, on, and around plants. Soil biology and soil health are pivotal concepts in regenerative agriculture, and a whole market of different living amendments has shown up.
