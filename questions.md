@@ -5,6 +5,8 @@
   * Any other differences?
   * Describe your experiences from applications of the substance
   * Did you understand which one was control and not?
+  * What type of inputs do you use?
+  * Did you adjust other inputs as a consequence of the use of the biofertilizer?
   * Anything else you wish to bring forward when it comes to the substance?
 * Measuring BRIX
   * What was your expectations going when being instructed to measure BRIX?
