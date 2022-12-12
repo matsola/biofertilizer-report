@@ -27,7 +27,7 @@ The reason for measuring BRIX is since it is pretty easy and quick, and somethin
 
 "The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health."[https://johnkempf.com/the-challenges-of-managing-nutrition-with-brix-readings/]
 
-Unfortunately, measuring BRIX does not tell the whole story and is why soil, leaf, and fruit samples were sent to laboratories for chemical analysis. 
+Unfortunately, measuring BRIX does not tell the whole story and is why soil, leaf, and fruit samples were sent to laboratories for chemical analysis.
 
 ### The vegetable producers
 
