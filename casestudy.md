@@ -120,7 +120,9 @@ A list of interview questions is provided in the appendix. The answers to these 
 
 The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the study.
 
-This lack of correlation between inputs (such as fertilizers, water, and other amendments) and the resulting soil analysis is not uncommon, as many factors can play in. These factors include deficiencies in water or nutrients, environmental factors such as temperature and sunlight, and the presence of adequate levels of nutrients in the soil. Despite the lack of correlation in this case, diagrams are provided in the following section to visualize the differences between the control and experimental beds.
+This lack of correlation between inputs (such as fertilizers, water, and other amendments) and the resulting soil analysis is not uncommon, as many factors can play in. These factors include deficiencies in water or nutrients, environmental factors such as temperature and sunlight, and the presence of adequate levels of nutrients in the soil.
+
+Despite the lack of correlation in this case, diagrams are provided in the following section to visualize the differences between the control and experimental beds.
 
 The reports from laboratories are included in the appendix.
 
@@ -285,7 +287,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Conductivity (mS/cm) | Good | High |
 | Sugar (BRIX) | Good | Good |
 
-#### Comments of Leaf tests
+#### Comments on Leaf tests
 
 While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the inputs on tomato plants. For example, at _Branseröds gård_, the experiment bed showed more values classified as "good" compared to the control bed. However, this pattern was not consistently observed across all producers or beds.
 
@@ -315,3 +317,24 @@ To correctly measure quality of tomatoes, many more factors need to be weight in
 [MEDSCPC]: https://www.medscape.com/viewarticle/487510?reg=1
 [LVTOM]: https://www.livsmedelsverket.se/globalassets/publikationsdatabas/rapporter/2008/rapp-15_naringsforandringar_080825_klar.pdf
 
+#### Tomato tests for _Timmervikens skafferi_
+
+![image](charts/tomato/lykopene-timmerviken.png) ![image](charts/tomato/c-timmerviken.png)
+
+#### Tomato tests for _Vävra Köksträdgård_
+
+![image](charts/tomato/lycopene-vavra.png) ![image](charts/tomato/c-vavra.png)
+
+#### Tomato tests for _Branseröd Gård_
+
+![image](charts/tomato/lycopene-branserod.png) ![image](charts/tomato/c-branserod.png)
+
+#### Comments on Tomato tests
+
+The results for lycopene and vitamin C levels among the producers were mixed.
+
+For one producer, the experiment bed had higher levels of both nutrients, while for another producer, the experiment bed had lower levels for both nutrients. The third producer showed the opposite pattern, with higher levels of vitamin C in the experiment bed but lower levels of lycopene.
+
+Overall, the data does not support any clear conclusions about the potential effects of the inputs.
+
+Further analysis and research may be needed to better understand the relationship between inputs and tomato quality.
