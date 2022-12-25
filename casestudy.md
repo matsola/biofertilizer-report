@@ -17,6 +17,11 @@ During the season, a series of tests and analyses was performed:
 
 The second part, focusing on the experience of using the solution, was conducted with in-depth interviews with the tomato producers and urban gardeners to capture their experience using the solution.
 
+The study is made possible with the funding of _Leader Södra Bohuslän_[[3][LSB]] and _Jordbruksverket_[[4][JBV]].
+
+[LSB]:https://www.leadersodrabohuslan.se/
+[JBV]:https://www.leadersodrabohuslan.se/
+
 ## Introduction
 
 A biofertilizer is: "... a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant ... add nutrients through the natural processes of nitrogen fixation, solubilizing phosphorus, and stimulating plant growth through the synthesis of growth-promoting substances. The micro-organisms in biofertilizers restore the soil's natural nutrient cycle and build soil organic matter. Through the use of biofertilizers, healthy plants can be grown, while enhancing the sustainability and the health of the soil." [[1][BIOF]]
@@ -33,7 +38,7 @@ The reason for measuring BRIX is that it is both easy and quick and something an
 
 Unfortunately, measuring BRIX does not tell the whole story, so soil, leaf, and fruit samples were sent to laboratories for chemical analysis.
 
-On top of that, the report attempts to capture the experience of using the biofertilizer. We can use in-depth interviews to capture the hard-to-measure parts of using the solution. The interviewees include the producers mentioned above and gardeners from an urban gardening company.
+On top of that, the report attempts to capture the experience of using the biofertilizer, using in-depth interviews to capture the hard-to-measure parts of using the solution. The interviewees include the producers mentioned above and gardeners from an urban gardening company.
 
 [BIOF]: https://en.wikipedia.org/wiki/Biofertilizer
 [JKEMPF]: https://johnkempf.com/the-challenges-of-managing-nutrition-with-brix-readings/
@@ -62,13 +67,6 @@ Their clients are businesses, municipalities, and other organizations.
 
 A number of their employees used the biofertilizer in the clients' gardens.
 
-### Sponsors of the case study
-
-The study is made possible with the funding of _Leader Södra Bohuslän_[[3][LSB]] and _Jordbruksverket_[[4][JBV]].
-
-[LSB]:https://www.leadersodrabohuslan.se/
-[JBV]:https://www.leadersodrabohuslan.se/
-
 ## Method
 
 ### Experiment setup
@@ -95,20 +93,62 @@ The control substance was sterilized by boiling the biofertilizer for two minute
 
 The two substances were then put into six sterilized jars marked with a code (two for each grower). The code's meaning was recorded and never disclosed to the producers.
 
+The producers where handed two jars each, one control and one experiment.
+
 [GGR1]:https://www.gerrygillespie.net/uploads/4/5/6/5/45656863/bioferments_biostimulants_and_biofertilisers_-_making_them_on-farm_fact_sheet_final_metric_march_2019.pdf
 
-### Additional analysis
+### Tests
 
 Apart from measuring BRIX, each producer sent the following for analysis by a third-party laboratory:
 
 - Soil analysis in early spring (before the growing season started),
 - Leaf for analysis (samples were sent when fruit started ripening)
-- Fruit analysis for measuring lycopene levels and vitamin C (considered to be quality indicators of tomatoes)
+- Tomato analysis for measuring lycopene levels and vitamin C (considered to be quality indicators of tomatoes)
 - Soil analysis in late autumn (after the growing season started)
 
 Nota bene: for each analysis, one sample was taken from the experiment bed and one from the control bed and evaluated separately. Except for the first soil analysis, where only one was used.
 
 The reports from the analyses can be found in the appendix of this report.
+
+#### Soil analysis
+
+To understand the effects of the inputs on soil quality, each producer conducted a soil test in the early season (May) and two additional tests in the control and experimental beds during the late season (December). The spring test reports provide a baseline measurement of the chemical composition of the soil before any inputs were applied, while the autumn test reports reveal the potential impacts of the inputs on the soil's chemical composition over the course of the growing season.
+
+The Spurway method was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
+
+#### Leaf analysis
+
+Leaf analysis is a method of evaluating the nutrient content of plant leaves. It is often used to assess the overall health and nutritional status of a plant, as well as to diagnose nutrient deficiencies or imbalances that may be affecting plant growth and development.
+
+Leaf analysis can be useful in identifying nutrient deficiencies that may not be apparent through other methods, such as soil testing, and can help guide the application of fertilizers or other nutrients to ensure that plants are receiving adequate nutrition.
+
+The methodcan also be used to monitor the effectiveness of fertilization programs and to identify potential problems with plant nutrition that may be impacting crop yields.
+
+#### Tomato analysis
+
+Lycopene and vitamin C are important nutrients found in tomatoes and are often used as indicators of tomato quality.
+
+Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[6][MEDSCPC]] and heart disease[[7][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
+
+Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[8][NIHGOV2]] and heart disease[[9][NIHGOV3]].
+
+In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
+
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[10][LVTOM]], since it depends on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+
+[NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
+[NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
+[NIHGOV3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000725/
+[MEDSCPC]: https://www.medscape.com/viewarticle/487510?reg=1
+[LVTOM]: https://www.livsmedelsverket.se/globalassets/publikationsdatabas/rapporter/2008/rapp-15_naringsforandringar_080825_klar.pdf
+
+#### BRIX analysis
+
+BRIX, or degrees Brix, is a measurement of sugar content in a plant. It is often used as an indicator of plant health because sugar plays a vital role in plant growth and development.
+
+High levels of sugar can indicate that a plant is receiving sufficient nutrients and light, while low levels may suggest that the plant is experiencing stress or is not getting enough nutrients.
+
+A small sample of plant juice was extracted (with a garlic press) from the plant and then measured with a digital refractometer.  
 
 ### Interviews with the producers and gardeners
 
@@ -126,11 +166,7 @@ Despite the lack of correlation in this case, diagrams are provided in the follo
 
 The reports from laboratories are included in the appendix.
 
-### Soil tests
-
-To understand the effects of the inputs on soil quality, each producer conducted a soil test in the early season (May) and two additional tests in the control and experimental beds during the late season (December). The spring test reports provide a baseline measurement of the chemical composition of the soil before any inputs were applied, while the autumn test reports reveal the potential impacts of the inputs on the soil's chemical composition over the course of the growing season.
-
-The Spurway method was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
+### Results: Soil analysis
 
 Diagrams are included below to visually compare the spring, control, and experimental test results.
 
@@ -207,9 +243,9 @@ Diagrams are included below to visually compare the spring, control, and experim
 
 It is hard to deduce any clear trends or tendencies from this data.
 
-#### Leaf analysis
+TBD: MORE HERE!!!!!!
 
-Leaf analysis was performed on the experiment and control beds during the tomato ripening season to understand which elements the plants had taken up. While soil tests show what is present in the soil, leaf analysis provides a more reliable indication of what the plant can actually use.
+#### Result: Leaf analysis
 
 Unfortunately, not all producers conducted the same test or used the same laboratory, due to miscommunication. _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
 
@@ -217,7 +253,7 @@ Despite these differences, the results were still similar enough to be considere
 
 The results of the leaf analysis tests were categorized as "low", "pretty low", "good", "pretty high", or "high". However, for Timmervikens skafferi and Branseröd Gård, only the categories of "low", "good", and "high" were applicable. These values are shown in tables in the following section.
 
-#### Leaf tests for _Timmervikens skafferi_
+#### Leaf analysis for _Timmervikens skafferi_
 
 ![image](charts/leaf/leaf-timmerviken.png)
 |               | Experiment | Control |
@@ -241,7 +277,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Conductivity (mS/cm) | Good | Good |
 | Sugar (BRIX) | Good | Good |
 
-#### Leaf tests for _Vävra Köksträdgård_
+#### Leaf analysis for _Vävra Köksträdgård_
 
 ![image](charts/leaf/leaf-vavra.png)
 
@@ -262,7 +298,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Molybdenum (mg/l) | Pretty low | Pretty low |
 | Selenium (μg/kg) | Good | High |
 
-#### Leaf tests for _Branseröd Gård_
+#### Leaf analysis for _Branseröd Gård_
 
 ![image](charts/leaf/leaf-branserod.png)
 
@@ -287,7 +323,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Conductivity (mS/cm) | Good | High |
 | Sugar (BRIX) | Good | Good |
 
-#### Comments on Leaf tests
+#### Comments on Leaf analysis
 
 While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the inputs on tomato plants. For example, at _Branseröds gård_, the experiment bed showed more values classified as "good" compared to the control bed. However, this pattern was not consistently observed across all producers or beds.
 
@@ -297,25 +333,9 @@ Overall, the data provides some insights into the effects of the inputs on tomat
 
 #### Fruit analysis
 
-Lycopene and vitamin C are important nutrients found in tomatoes and are often used as indicators of tomato quality.
-
-Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[6][MEDSCPC]] and heart disease[[7][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
-
-Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[8][NIHGOV2]] and heart disease[[9][NIHGOV3]].
-
-In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
-
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[10][LVTOM]], since it depends on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
-
 It should be stressed that one can not compare the results between the producers as these values are, among other things, dependent on variety.
 
 To correctly measure quality of tomatoes, many more factors need to be weight in.
-
-[NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
-[NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
-[NIHGOV3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000725/
-[MEDSCPC]: https://www.medscape.com/viewarticle/487510?reg=1
-[LVTOM]: https://www.livsmedelsverket.se/globalassets/publikationsdatabas/rapporter/2008/rapp-15_naringsforandringar_080825_klar.pdf
 
 #### Tomato tests for _Timmervikens skafferi_
 
@@ -338,3 +358,29 @@ For one producer, the experiment bed had higher levels of both nutrients, while 
 Overall, the data does not support any clear conclusions about the potential effects of the inputs.
 
 Further analysis and research may be needed to better understand the relationship between inputs and tomato quality.
+
+Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[11][LVLD]].
+
+[LVLD]: https://www.livsmedelsverket.se/livsmedelsdatabasen
+
+#### Results: BRIX analysis
+
+The producers found it challenging to get consistent readings, as two samples from the same plant could produce different results. As a result, the plant juice was strained through cloth, and an average of 3-5 measurements was recorded.
+
+#### BRIX readings for _Timmervikens skafferi_
+
+![image](charts/brix/brix-timmerviken.png)
+
+#### BRIX readings for _Vävra Köksträdgård_
+
+![image](charts/brix/brix-vavra.png)
+
+#### BRIX readings for _Branseröd Gård_
+
+![image](charts/brix/brix-branserod.png)
+
+#### Comments on BRIX readings
+
+The problem of getting consistent BRIX readings, raises concerns about the reliability of these measurements presented. If a similar study is to be done in the future, one needs to find ways to increase the reliability of BRIX readings.
+
+These result provide no strong evidence to suggest that the biofertilizer had a significant impact on the plants in this study.
