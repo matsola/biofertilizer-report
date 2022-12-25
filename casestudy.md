@@ -2,46 +2,48 @@
 
 ## Abstract
 
-This report consists of two parts. The first part, referred to as "the experiment" or "the case study," attempts to measure the effects of biofertilizers in a market garden setting. The second part attempts to capture the experience of using biofertilizer.
+This report aims to evaluate the effects of using a simple DIY biofertilizer in the vegetable production and gardening.
 
-In the experiment, we measure the performance of a simple do-it-yourself (DIY) biofertilizer, comparing it to a sterilized version (control) of the same substance in a tomato garden.
+This could benefit vegetable producers and gardeners from dependency on buying inputs from companies providing them with higher resilience and a possibility to cut costs.
 
-Three tomato producers set up the two beds each (with similar conditions and tomato varieties) and applied the solutions as a foliar spray every second week.
+In the experiment, we measure the performance of a biofertilizer, comparing it to a sterilized version (control) of the same substance in the context of vegetable production and urban gardening.
 
-During the season, a series of tests and analyses was performed:
+For this case study three small scale vegetable producers conducted the trials and soil samples, leaf samples, crop samples was send for laboratorial analysis. On top of that the producers measured BRIX throughout the growing season to monitor plant health.
 
-- soil analysis before the growing season and after the growing season ended,
-- leaf analysis (once during the experiment),
-- measure BRIX (once every second week),
-- measure vitamin C and lycopene to indicate the fruit quality
+Apart from these analysises, semi-structed interviews was conducted with the vegetable producers. Gardeners from an urban gardening company, who also trialed the biofertilizer, is included in the interview.
 
-The second part, focusing on the experience of using the solution, was conducted with in-depth interviews with the tomato producers and urban gardeners to capture their experience using the solution.
+From the test results from the laboratories we could not conclude descisive effects on plant health nor crop.
 
 The study is made possible with the funding of _Leader Södra Bohuslän_[[3][LSB]] and _Jordbruksverket_[[4][JBV]].
 
 [LSB]:https://www.leadersodrabohuslan.se/
-[JBV]:https://www.leadersodrabohuslan.se/
+[JBV]:https://www.jordbruksverket.se/
 
 ## Introduction
 
 A biofertilizer is: "... a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant ... add nutrients through the natural processes of nitrogen fixation, solubilizing phosphorus, and stimulating plant growth through the synthesis of growth-promoting substances. The micro-organisms in biofertilizers restore the soil's natural nutrient cycle and build soil organic matter. Through the use of biofertilizers, healthy plants can be grown, while enhancing the sustainability and the health of the soil." [[1][BIOF]]
 
-In the case study, we try to measure the difference between a biofertilizer versus a sterilized version of the same substance (control); this, in turn, indicates if the biology in the solution makes a difference to the plant's performance.
+Enabling producers, farmers and gardeners to manufacture their fertilizers on-premise gives their operation higher resilience, cuts costs, and allows them to tailor the inputs to their specific needs, setting, and context.
 
-The biofertilizer evaluated in this study is very simple to manufacture at home or on-farm, requiring a jar, bucket with a lid, and a fermentation lock. Ingredients (like rice, milk, and yeast) are commonly available at a supermarket. Some optional ingredients might not be as accessible depending on the setting, like basalt rock powder, seaweed meal, and manure. The recipe is available at [https://www.gerrygillespie.net/uploads/4/5/6/5/45656863/bioferments_biostimulants_and_biofertilisers_-_making_them_on-farm_fact_sheet_final_metric_march_2019.pdf]
+_Gerry Gillespie_ provides the recipe for the biofertilizer evaluated in this case study and offers it freely on his website. [[2][RECIPE]]
 
-In the study, three local vegetable producers were tasked with setting up two separate beds with similar conditions regarding soil, sun, water, and tomato varieties. On top of that, they were instructed how to prepare the solutions, apply them, and measure BRIX readings.
+The input is easy to manufacture at home or on-farm, requiring only jars, a bucket with a lid, a fermentation lock, and commonly available ingredients (such as rice, milk, and yeast) from the supermarket. Optional ingredients like basalt rock powder, seaweed meal, and manure may be less accessible but are not required. The recipe steps are simple and easy to follow.
 
-The reason for measuring BRIX is that it is both easy and quick and something any grower can do themselves and will hint at plant well-being.
+Three local vegetable producers conducted experiments to evaluate the effects of the biofertilizer on plant health and crop quality (which will be introduced below).
 
-"The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[2][JKEMPF]]
+During the growing season, laboratories conducted several tests (soil analysis, leaf analysis, and crop analysis). Apart from that, the producers also measure BRIX.
 
-Unfortunately, measuring BRIX does not tell the whole story, so soil, leaf, and fruit samples were sent to laboratories for chemical analysis.
+"The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[3][JKEMPF]]
 
-On top of that, the report attempts to capture the experience of using the biofertilizer, using in-depth interviews to capture the hard-to-measure parts of using the solution. The interviewees include the producers mentioned above and gardeners from an urban gardening company.
+Measuring BRIX is easy with a refractometer and can be done in the field; a test takes seconds or minutes. The higher the reading, the better plant performance. Unfortunately, it only hints at plant health, and one can not make conclusions (like nutrient deficiencies) based on its reading.
+
+A common problem when conducting case studies is environmental factors (like water, deficiencies/excess nutrients) that play in. Therefore, the trial compares two beds (experiment and control) in close vicinity with similar conditions.
+
+On top of that, many decisions in vegetable production and gardening come from previous experiences and gut feelings. To capture these intangible dimensions of the trial, interviews with producers and an urban gardening company (which also tested the biofertilizer) was done.
 
 [BIOF]: https://en.wikipedia.org/wiki/Biofertilizer
 [JKEMPF]: https://johnkempf.com/the-challenges-of-managing-nutrition-with-brix-readings/
+[RECIPE]: https://www.gerrygillespie.net/uploads/4/5/6/5/45656863/bioferments_biostimulants_and_biofertilisers_-_making_them_on-farm_fact_sheet_final_metric_march_2019.pdf
 
 ### The vegetable producers
 
@@ -59,7 +61,7 @@ The case study was performed in their market gardens.
 
 Timmervikens skafferi operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (Pieris brassicae), "Bacillus Thurengensis" is applied as an input. Iron sulfate pellets are used to control slugs. The farm practices no-till/no-dig management methods and actively promotes the soil microbiology.
 
-### The gardeners
+### Gardeners from Bee Urban
 
 The interviewed gardeners operate from Stockholm and design, build and manage urban gardens to create habitats for insects, animals, and people.
 
@@ -71,44 +73,42 @@ A number of their employees used the biofertilizer in the clients' gardens.
 
 ### Experiment setup
 
-The three vegetable producers set up two different tomato beds to have as similar conditions as possible, w.r.t. sun, soil, and water. In both beds, the same variety of tomatoes was grown.
+The three vegetable producers set up two tomato beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same variety of tomatoes.
 
-Two anonymous jars were given to the producers. One contained the biofertilizer, and the other was the control substance. The jars were marked to be able to keep them separated. Instructions on how to prepare, apply and measure BRIX was also distributed.
+Each producer received two anonymous jars, one containing the biofertilizer and the other serving as the control substance. The jars were labeled to keep them separate, and instructions on how to prepare, apply, and measure BRIX were also provided.
 
-Before application, the substances were diluted at a rate of 1:150 and then applied as a foliar spray with a handheld low-pressure sprayer. Instructions mandated applications to be conducted early morning or late evening. The producers randomly selected to use one jar for one bed and the other jar for the other bed.
+The substances were diluted at a ratio of 1:150 before application, which was done using a handheld low-pressure sprayer as a foliar spray. Applications were conducted either early in the morning or late in the evening, as per the instructions. The producers randomly assigned one jar to one bed and the other jar to the other bed.
 
-BRIX was measured and recorded in both beds a couple of hours after the application. The BRIX measurement was done with a digital BRIX refractometer.
-
-The first biofertilizer application was made to the roots of the tomatoes before planting them in the garden. Then every second week throughout the growing season.
+The first application of biofertilizer was made to the roots of the tomatoes before planting. Approximately every second week throughout the growing season, additional applications were made.
 
 ### Prepation of substances
 
-Instructions on preparing the biofertilizer used in the experiment are available in [[5][GGR1]].
+Instructions for preparing the biofertilizer used in the experiment are available in [[2][RECIPE]]. In our experiment, we used a version without any manure, as requested by the producers. Instead, we used LAB Serum, which the recipe indicates is a suitable replacement. Instructions for making LAB serum are also available in [[2][RECIPE]].
 
-In our experiment, we used a version without any manure, as requested by the producers. Instead, we used LAB Serum, which the recipe said was a suitable replacement. Instructions on making LAB serum are also available in [[5][GGR1]].
-
-The biofertilizer included seaweed meal (marked as optional in the recipe) and excluded rock phosphate powder (also marked as optional).
+The biofertilizer used in this experiment included seaweed meal (marked as optional in the recipe) and excluded rock phosphate powder (also marked as optional). 
 
 The control substance was sterilized by boiling the biofertilizer for two minutes.
 
-The two substances were then put into six sterilized jars marked with a code (two for each grower). The code's meaning was recorded and never disclosed to the producers.
-
-The producers where handed two jars each, one control and one experiment.
-
-[GGR1]:https://www.gerrygillespie.net/uploads/4/5/6/5/45656863/bioferments_biostimulants_and_biofertilisers_-_making_them_on-farm_fact_sheet_final_metric_march_2019.pdf
+The two substances were then placed into sterilized jars, which were marked with a code. The meaning of the code was recorded, but was not disclosed to the producers. Each grower received two jars, one containing the control substance and one containing the experiment substance.
 
 ### Tests
 
-Apart from measuring BRIX, each producer sent the following for analysis by a third-party laboratory:
+Throughout the case study, samples were taken from the experiment and control bed and sent to laboratory for analysis (expect for the spring soil sample were only one sample was taken).
+
+The samples were taken at the same time and packed and deliviered as prescibed by the laboratory.
+
+Overall, the following tests were performed:
 
 - Soil analysis in early spring (before the growing season started),
 - Leaf for analysis (samples were sent when fruit started ripening)
 - Tomato analysis for measuring lycopene levels and vitamin C (considered to be quality indicators of tomatoes)
-- Soil analysis in late autumn (after the growing season started)
+- Soil analysis in late autumn (after the growing season ended)
 
-Nota bene: for each analysis, one sample was taken from the experiment bed and one from the control bed and evaluated separately. Except for the first soil analysis, where only one was used.
+On top of that BRIX was measured and recorded before and after every application of the substances with a few hours apart.
 
 The reports from the analyses can be found in the appendix of this report.
+
+Each test is explained in more detail below.
 
 #### Soil analysis
 
@@ -116,13 +116,20 @@ To understand the effects of the inputs on soil quality, each producer conducted
 
 The Spurway method was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
 
+As mentioned earlier, soil samples was taken early spring and then late autumn (after the growing season ended).
+
+The spring sample was collected from only one of the beds. The autumn samples was collected from both experiment and control beds.
+
 #### Leaf analysis
 
 Leaf analysis is a method of evaluating the nutrient content of plant leaves. It is often used to assess the overall health and nutritional status of a plant, as well as to diagnose nutrient deficiencies or imbalances that may be affecting plant growth and development.
 
 Leaf analysis can be useful in identifying nutrient deficiencies that may not be apparent through other methods, such as soil testing, and can help guide the application of fertilizers or other nutrients to ensure that plants are receiving adequate nutrition.
 
-The methodcan also be used to monitor the effectiveness of fertilization programs and to identify potential problems with plant nutrition that may be impacting crop yields.
+The method can also be used to monitor the effectiveness of fertilization programs and to identify potential problems with plant nutrition that may be impacting crop yields.
+
+The leaf samples were collected when the tomatoes started to ripen.
+
 
 #### Tomato analysis
 
@@ -136,6 +143,8 @@ In general, tomatoes higher in lycopene and vitamin C are considered to be of hi
 
 In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[10][LVTOM]], since it depends on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
+Tomatoes of similar degree of ripeness and size was selected from the experiment and control bed.
+
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
 [NIHGOV3]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000725/
@@ -144,11 +153,15 @@ In hindsight, testing for lycopene is not an ideal measurement for comparing tom
 
 #### BRIX analysis
 
-BRIX, or degrees Brix, is a measurement of sugar content in a plant. It is often used as an indicator of plant health because sugar plays a vital role in plant growth and development.
+BRIX, or degrees Brix (°Bx), is a measurement of sugar content in a plant. It is often used as an indicator of plant health because sugar plays a vital role in plant growth and development.
 
 High levels of sugar can indicate that a plant is receiving sufficient nutrients and light, while low levels may suggest that the plant is experiencing stress or is not getting enough nutrients.
 
-A small sample of plant juice was extracted (with a garlic press) from the plant and then measured with a digital refractometer.  
+A small sample of plant sap was extracted (with a garlic press) from the plant leafs and then measured with a digital refractometer.  
+
+BRIX was measured before and a couple of hours after application of the biofertilizer.
+
+Measurements started after the plants had reached a certain size, where removing leaves would no longer negatively affect the plant's development.
 
 ### Interviews with the producers and gardeners
 
@@ -239,15 +252,13 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Molybdenum (g/ha) | High | High | High |
 | Selenium (g/ha) | Pretty Low | Low | Low |
 
-#### Comments
+#### Comments on Soil tests
 
-It is hard to deduce any clear trends or tendencies from this data.
-
-TBD: MORE HERE!!!!!!
+It is challenging to determine the specific effects of the inputs on the soil based on the observed differences between the experiment and control beds. While some variations were observed between the two beds in the laboratory's categorization of the results, the overall categorization remained largely unchanged from the spring to the autumn tests.
 
 #### Result: Leaf analysis
 
-Unfortunately, not all producers conducted the same test or used the same laboratory, due to miscommunication. _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
+Due to miscommunication. _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
 
 Despite these differences, the results were still similar enough to be considered relevant for this case study. It is important to note that the use of different tests and laboratories may affect the reliability of the results and should be taken into consideration when interpreting the data.
 
@@ -327,8 +338,6 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 
 While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the inputs on tomato plants. For example, at _Branseröds gård_, the experiment bed showed more values classified as "good" compared to the control bed. However, this pattern was not consistently observed across all producers or beds.
 
-Additionally, it is important to consider the potential influence of other factors, such as environmental conditions and soil properties, on the results. These factors could have contributed to any observed differences between the control and experiment beds, and further investigation may be necessary to understand their relative impact.
-
 Overall, the data provides some insights into the effects of the inputs on tomato plants, but further research and analysis will likely be needed to more fully understand the impact of the input.
 
 #### Fruit analysis
@@ -365,7 +374,7 @@ Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher 
 
 #### Results: BRIX analysis
 
-The producers found it challenging to get consistent readings, as two samples from the same plant could produce different results. As a result, the plant juice was strained through cloth, and an average of 3-5 measurements was recorded.
+The producers found it challenging to get consistent readings, as two samples from the same plant could produce different results. As a result, the plant sap was strained through cloth, and an average of 3-5 measurements was recorded.
 
 #### BRIX readings for _Timmervikens skafferi_
 
@@ -384,3 +393,16 @@ The producers found it challenging to get consistent readings, as two samples fr
 The problem of getting consistent BRIX readings, raises concerns about the reliability of these measurements presented. If a similar study is to be done in the future, one needs to find ways to increase the reliability of BRIX readings.
 
 These result provide no strong evidence to suggest that the biofertilizer had a significant impact on the plants in this study.
+
+### Discussion
+
+#### Experiment/Case study
+
+Despite analyzing various aspects of soil and plant health, this study was unable to draw any conclusions about the impact of using this biofertilizer on the health of the producers' tomato plants and tomatoes.
+
+This may be due to the complex and varied environmental factors that can influence plant health, such as nutrient deficiencies and water availability. It is challenging to isolate the specific effects of the biofertilizer in this context.
+
+
+#### Interviews
+
+TDB!
