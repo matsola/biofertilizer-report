@@ -49,20 +49,35 @@ On top of that, many decisions in vegetable production and gardening come from p
 
 The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 800-1200 m². These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
-They manage their lands with ideas from conservation agriculture, such as minimizing soil disturbance and maintaining permanent soil cover.
+They manage their lands with ideas from _conservation agriculture_[[4][CA], such as minimizing soil disturbance and maintaining permanent soil cover.
 
 The producers operate on the west coast of Sweden, in Kungälv, Stenungssund, and Ljungskile (20-60 km north of Gothenburg).
 
 The case study was performed in their market gardens.
 
+[CA]: https://en.wikipedia.org/wiki/Conservation_agriculture
+
 #### Timmervikens skafferi
 
-_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (Pieris brassicae), inputs with _Bacillus Thurengensis_ inoculants are used[[4][BT]]. Ferric Phosphate pellets are used to control slugs (Arion vulgaris)[[5][SLUG]].
+_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (Pieris brassicae), inputs with _Bacillus Thurengensis_ inoculants are used[[5][BT]]. Ferric Phosphate pellets are used to control slugs (Arion vulgaris)[[6][SLUG]].
 
-The farm practices no-till/no-dig management methods and actively promotes the soil microbiology.
+The farm practices no-till/no-dig management methods[[7][NOTILL]] and actively promotes the soil microbiology.
 
 [BT]: https://en.wikipedia.org/wiki/Bacillus_thuringiensis
 [SLUG]: https://en.wikipedia.org/wiki/Spanish_slug
+[NOTILL]: https://en.wikipedia.org/wiki/No-till_farming
+
+#### Branseröds gård
+
+_Branseröds gård_ operates on 15 x 10 square meters of beds, as well as an additional 100 square meters for growing crops like potatoes and corn. On top of that, they have 168 square meters of greenhouse beds.
+
+Fertilizer inputs are sourced on-farm from cows, sheep, and goats, specifically using cow deep bedding in their greenhouse beds.
+
+To control caterpillars of the Large White, they use _Bacillus Thurengensis_ inoculants once a year.
+
+Management methods originates in no-till/no-dig [[7][NOTILL]]
+
+Instead of tilling or cultivating the beds, they use a broad fork to aerate the beds before the growing season and cover the beds with plastic during the winter.
 
 ### Gardeners from Bee Urban
 TDB
@@ -136,13 +151,13 @@ The leaf samples were collected when the tomatoes started to ripen.
 
 Lycopene and vitamin C are important nutrients found in tomatoes and are often used as indicators of tomato quality.
 
-Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[6][MEDSCPC]] and heart disease[[7][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
+Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[8][MEDSCPC]] and heart disease[[9][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
 
-Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[8][NIHGOV2]] and heart disease[[9][NIHGOV3]].
+Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[10][NIHGOV2]] and heart disease[[11][NIHGOV3]].
 
 In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
 
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[10][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[12][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
@@ -365,7 +380,7 @@ Overall, the data does not support any clear conclusions about the potential eff
 
 Further analysis and research may be needed to better understand the relationship between inputs and tomato quality.
 
-Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[11][LVLD]].
+Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[13][LVLD]].
 
 [LVLD]: https://www.livsmedelsverket.se/livsmedelsdatabasen
 
