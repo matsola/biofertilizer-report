@@ -80,13 +80,12 @@ Management methods originates in no-till/no-dig [[7][NOTILL]]
 Instead of tilling or cultivating the beds, they use a broad fork to aerate the beds before the growing season and cover the beds with plastic during the winter.
 
 ### Gardeners from Bee Urban
-TDB
 
-The interviewed gardeners operate from Stockholm and design, build and manage urban gardens to create habitats for insects, animals, and people.
+Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, and other insects.
 
-Their clients are businesses, municipalities, and other organizations.
+Their clients are typically larger businesses, municipalities, and organizations. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
 
-A number of their employees used the biofertilizer in the clients' gardens.
+[BU]: https://beeurban.se/
 
 ## Method
 
@@ -151,13 +150,13 @@ The leaf samples were collected when the tomatoes started to ripen.
 
 Lycopene and vitamin C are important nutrients found in tomatoes and are often used as indicators of tomato quality.
 
-Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[8][MEDSCPC]] and heart disease[[9][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
+Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[9][MEDSCPC]] and heart disease[[10][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
 
-Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[10][NIHGOV2]] and heart disease[[11][NIHGOV3]].
+Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[11][NIHGOV2]] and heart disease[[12][NIHGOV3]].
 
 In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
 
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[12][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[13][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
@@ -209,7 +208,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | Low | Low | Low |
 | Calcium (kg/ha) | Low | Low | Low |
 | Magnesium (kg/ha) | Pretty High | Pretty High | Pretty High |
-| Natrium (kg/ha) | Good | High | High |
+| Sodium (kg/ha) | Good | High | High |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | Low | Low | Low |
 | Zink (g/ha) | Good | Good | Good |
@@ -232,7 +231,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | Good | Pretty Low | Pretty Low |
 | Calcium (kg/ha) | Pretty Low | Pretty Low | Pretty Low |
 | Magnesium (kg/ha) | Good | Good | Pretty High |
-| Natrium (kg/ha) | Good | Good | Good |
+| Sodium (kg/ha) | Good | Good | Good |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | Pretty Low | Low | Low |
 | Zink (g/ha) | High | Pretty High | Pretty High |
@@ -255,7 +254,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | High | High | High |
 | Calcium (kg/ha) | High | Low | Pretty High |
 | Magnesium (kg/ha) | Pretty High | High | High |
-| Natrium (kg/ha) | Pretty High | Pretty High | Pretty High |
+| Sodium (kg/ha) | Pretty High | Pretty High | Pretty High |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | High | High | High |
 | Zink (g/ha) | Good | Good | Good |
@@ -289,7 +288,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Potasium (mg/l) | Good | Good |
 | Calcium (mg/l) | Low | Low |
 | Magnesium (mg/l) | Good | Good |
-| Natrium (mg/l) | High | High |
+| Sodium (mg/l) | High | High |
 | Silicon (mg/l) | Low | Low |
 | Iron (mg/l) | High | High |
 | Zink (mg/l) | High | High |
@@ -335,7 +334,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Potasium (mg/l) | Good | High |
 | Calcium (mg/l) | Low | Low |
 | Magnesium (mg/l) | Good | Low |
-| Natrium (mg/l) | High | High |
+| Sodium (mg/l) | High | High |
 | Silicon (mg/l) | Low | Low |
 | Iron (mg/l) | Low | Low |
 | Zink (mg/l) | Good | High |
@@ -380,7 +379,7 @@ Overall, the data does not support any clear conclusions about the potential eff
 
 Further analysis and research may be needed to better understand the relationship between inputs and tomato quality.
 
-Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[13][LVLD]].
+Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[14][LVLD]].
 
 [LVLD]: https://www.livsmedelsverket.se/livsmedelsdatabasen
 
