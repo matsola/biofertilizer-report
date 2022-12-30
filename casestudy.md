@@ -49,7 +49,7 @@ On top of that, many decisions in vegetable production and gardening come from p
 
 The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 800-1200 m². These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
-They manage their lands with ideas from _conservation agriculture_[[4][CA], such as minimizing soil disturbance and maintaining permanent soil cover.
+They manage their lands with ideas from _conservation agriculture_[[4][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
 The producers operate on the west coast of Sweden, in Kungälv, Stenungssund, and Ljungskile (20-60 km north of Gothenburg).
 
