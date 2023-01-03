@@ -79,6 +79,10 @@ Management methods originates in no-till/no-dig [[7][NOTILL]]
 
 Instead of tilling or cultivating the beds, they use a broad fork to aerate the beds before the growing season and cover the beds with plastic during the winter.
 
+The tests were conducted in the greenhouse, which had relatively poor tomato conditions. The growing medium is semi-decomposed animal bedding (cow).
+
+Remark: the experiment bed had possibly a bit better conditions that the test bed.
+
 ### Gardeners from Bee Urban
 
 Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, and other insects.
@@ -180,7 +184,9 @@ Measurements started after the plants had reached a certain size, where removing
 
 We conducted semi-structured in-depth interviews with the three vegetable producers and a number of urban gardeners to capture the hard-to-measure aspects of their experiences using the biofertilizer. The interviews were conducted over the phone or via video chat and were semi-structured, allowing for flexibility and in-depth exploration of the participants' experiences.
 
-A list of interview questions is provided in the appendix. The answers to these questions are summarized in the appendix, providing insight into the participants' thoughts and feelings about using the biofertilizer. These interviews provide valuable information that complements the findings of the experimental study, particularly concerning the more intangible aspects of using the biofertilizer.
+The questions and answers can be found in the appendix, providing insight into the participants' thoughts and feelings about using the biofertilizer. These interviews provide valuable information that complements the findings of the experimental study, particularly concerning the more intangible aspects of using the biofertilizer.
+
+The same questions was used for the producers. For the gardeners a different set of questions used.
 
 ## Result
 
