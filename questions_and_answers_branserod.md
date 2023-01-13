@@ -1,4 +1,4 @@
-# Questions and awsers from Branseröd Gård
+# Questions and answers from Branseröd Gård
 
 ## Application of biofertilizer
 
