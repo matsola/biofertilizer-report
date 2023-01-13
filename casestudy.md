@@ -391,7 +391,7 @@ Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher 
 
 #### Results: BRIX analysis
 
-The producers found it challenging to get consistent readings, as two samples from the same plant could produce different results. As a result, the plant sap was strained through cloth, and an average of 3-5 measurements was recorded.
+The producers found it challenging to get consistent readings, as two samples from the same plant could produce different results. As a result, the plant sap was strained through cloth before the measurements was recorded.
 
 #### BRIX readings for _Timmervikens skafferi_
 
