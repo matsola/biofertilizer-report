@@ -59,7 +59,7 @@ The case study was performed in their market gardens.
 
 #### Timmervikens skafferi
 
-_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (Pieris brassicae), inputs with _Bacillus Thurengensis_ inoculants are used[[5][BT]]. Ferric Phosphate pellets are used to control slugs (Arion vulgaris)[[6][SLUG]].
+_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (_Pieris brassicae_), inputs with _Bacillus Thurengensis_ inoculants are used[[5][BT]]. Ferric Phosphate pellets are used to control slugs (_Arion vulgaris_)[[6][SLUG]].
 
 The farm practices no-till/no-dig management methods[[7][NOTILL]] and actively promotes the soil microbiology.
 
@@ -73,15 +73,25 @@ _Branseröds gård_ operates on 15 x 10 square meters of beds, as well as an add
 
 Fertilizer inputs are sourced on-farm from cows, sheep, and goats, specifically using cow deep bedding in their greenhouse beds.
 
-To control caterpillars of the Large White, they use _Bacillus Thurengensis_ inoculants once a year.
+To control caterpillars of the "large white", they use _Bacillus Thurengensis_ inoculants once a year.
 
-Management methods originates in no-till/no-dig [[7][NOTILL]]
+Management methods originates in no-till/no-dig
 
 Instead of tilling or cultivating the beds, they use a broad fork to aerate the beds before the growing season and cover the beds with plastic during the winter.
 
 The tests were conducted in the greenhouse, which had relatively poor tomato conditions. The growing medium is semi-decomposed animal bedding (cow).
 
 Remark: the experiment bed had possibly a bit better conditions that the test bed.
+
+### Vävra köksträdgård
+
+_Vävra köksträdgård_ operates on seven 20m x 0,7m beds and two greenhouses 90 square meters, 65 square meters respectively.
+
+The primary fertilizer input is lucern pellets. In addition, ferric phosphate pellets are used to control slugs (_Arion vulgaris_) and inoculants with  _Bacillus Thurengensis_ to control caterpillars of the "large white."
+
+Like the other producers, _Vävra köksträdgårds_'s management methods originate in no-till/no-dig and, among other things, avoid excess cultivation of the beds. Once a year, all beds are aerated using a broad fork. Has started to use cover crops and wish to do more of that going forward.
+
+The tests were conducted in one of the greenhouses.
 
 ### Gardeners from Bee Urban
 
