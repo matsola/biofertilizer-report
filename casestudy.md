@@ -39,7 +39,9 @@ Measuring BRIX is easy with a refractometer and can be done in the field; a test
 
 A common problem when conducting case studies is environmental factors (like water, deficiencies/excess nutrients) that play in. Therefore, the trial compares two beds (experiment and control) in close vicinity with similar conditions.
 
-On top of that, many decisions in vegetable production and gardening come from previous experiences and gut feelings. To capture these intangible dimensions of the trial, interviews with producers and an urban gardening company (which also tested the biofertilizer) was done.
+When gardening, one tries to manipulate a system so complicated that it is almost impossible to foresee a particular action's consequences. Parts of the system one can control to some extent, like water availability. Other parts of the system are harder to manipulate and understand how they relate, like temperature, sun exposure, bugs, pests, and soil microbiome, to name a few. Consequently, gardeners resort to gut feeling when making decisions based on previous experience, intuition, convictions, etc.
+
+The gut feelings of the producers and gardeners are relevant to this case study since not _everything_ is measurable, nor is _everything_ sent to a lab for analysis in this case study. Therefore, interviews were conducted with the producers and gardeners to capture these intangible dimensions of gardening.
 
 [BIOF]: https://en.wikipedia.org/wiki/Biofertilizer
 [JKEMPF]: https://johnkempf.com/the-challenges-of-managing-nutrition-with-brix-readings/
@@ -47,7 +49,7 @@ On top of that, many decisions in vegetable production and gardening come from p
 
 ### The vegetable producers
 
-The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 800-1200 m². These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
+The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 300-1050 square meters. These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
 They manage their lands with ideas from _conservation agriculture_[[4][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
@@ -69,7 +71,7 @@ The farm practices no-till/no-dig management methods[[7][NOTILL]] and actively p
 
 #### Branseröds gård
 
-_Branseröds gård_ operates on 15 x 10 square meters of beds, as well as an additional 100 square meters for growing crops like potatoes and corn. On top of that, they have 168 square meters of greenhouse beds.
+_Branseröds gård_ operates on fifthteen 10 square meters of beds, as well as an additional 100 square meters for growing crops like potatoes and corn. On top of that, _Branseröds gård_ have 168 square meters of greenhouse beds.
 
 Fertilizer inputs are sourced on-farm from cows, sheep, and goats, specifically using cow deep bedding in their greenhouse beds.
 
@@ -97,15 +99,15 @@ The tests were conducted in one of the greenhouses.
 
 Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, and other insects.
 
-Their clients are typically larger businesses, municipalities, and organizations. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
-
+Their clients are typically larger businesses and municipalities. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
+TODO!!! Kolla siffrorna.
 [BU]: https://beeurban.se/
 
 ## Method
 
 ### Experiment setup
 
-The three vegetable producers set up two tomato green house beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same variety of tomatoes.
+The three vegetable producers set up two tomato green house beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same varieties of tomatoes.
 
 Each producer received two jars, one containing the biofertilizer and the other serving as the control substance. The jars were labeled to keep them separate, and instructions on how to prepare, apply, and measure BRIX were also provided.
 
@@ -119,7 +121,7 @@ Instructions for preparing the biofertilizer used in the experiment are availabl
 
 The biofertilizer used in this experiment included seaweed meal (marked as optional in the recipe) and excluded rock phosphate powder (also marked as optional).
 
-The control substance was sterilized by boiling the biofertilizer for two minutes.
+The control substance was a sterilized version of the biofertilizer (boiled for two minutes).
 
 The two substances were then placed into sterilized jars, which were marked with a code. The meaning of the code was recorded, but not disclosed to the producers.
 
@@ -152,9 +154,7 @@ The spring sample was collected from only one of the beds. The autumn samples wa
 
 #### Leaf analysis
 
-Leaf analysis is a method of evaluating the nutrient content of plant leaves. It is often used to assess the overall health and nutritional status of a plant, as well as to diagnose nutrient deficiencies or imbalances that may be affecting plant growth and development.
-
-Leaf analysis can be useful in identifying nutrient deficiencies that may not be apparent through other methods, such as soil testing, and can help guide the application of fertilizers or other nutrients to ensure that plants are receiving adequate nutrition.
+Leaf analysis is a method of evaluating the nutrient content of plant leaves. Leaf analysis helps identifying nutrient deficiencies that may not be apparent through other methods, such as soil testing, and can help guide the application of fertilizers or other nutrients to ensure that plants are receiving adequate nutrition.
 
 The method can also be used to monitor the effectiveness of fertilization programs and to identify potential problems with plant nutrition that may be impacting crop yields.
 
@@ -180,31 +180,27 @@ In hindsight, testing for lycopene is not an ideal measurement for comparing tom
 
 #### BRIX analysis
 
-BRIX, or degrees Brix (°Bx), is a measurement of sugar content in a plant. It is often used as an indicator of plant health because sugar plays a vital role in plant growth and development.
+Measuring BRIX, or degrees Brix (°Bx), of the plant's sap, indicates the plant's health and performance.
 
-High levels of sugar can indicate that a plant is receiving sufficient nutrients and light, while low levels may suggest that the plant is experiencing stress or is not getting enough nutrients.
+Plant sap with high sugar levels means that the plant is receiving sufficient nutrients and light, while low levels may suggest that the plant is experiencing stress or not getting enough nutrients.
 
-A small sample of plant sap was extracted (with a garlic press) from the plant leafs and then measured with a digital refractometer.  
+A small sample of plant sap was extracted (with a garlic press) from the plant leaves and then measured with a digital refractometer.  
 
-BRIX was measured before and a couple of hours after application of the biofertilizer.
+The case study measured BRIX before and a couple of hours after applying the biofertilizer.
 
-Measurements started after the plants had reached a certain size, where removing leaves would no longer negatively affect the plant's development.
+Measurements started after the plants had reached the size where removing leaves would no longer negatively affect the plant's development.
 
 ### Interviews with the producers and gardeners
 
-We conducted semi-structured in-depth interviews with the three vegetable producers and a number of urban gardeners to capture the hard-to-measure aspects of their experiences using the biofertilizer. The interviews were conducted over the phone or via video chat and were semi-structured, allowing for flexibility and in-depth exploration of the participants' experiences.
-
-The questions and answers can be found in the appendix, providing insight into the participants' thoughts and feelings about using the biofertilizer. These interviews provide valuable information that complements the findings of the experimental study, particularly concerning the more intangible aspects of using the biofertilizer.
-
-The same questions was used for the producers. For the gardeners a different set of questions used.
+Semi-structured interviews with the three vegetable producers and Bee Urban were done to capture the hard-to-measure aspects of their experiences using the biofertilizer. It serves as a good complement to the findings of the lab analyses.
 
 ## Result
 
 The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the study.
 
-This lack of correlation between inputs (such as fertilizers, water, and other amendments) and the resulting soil analysis is not uncommon, as many factors can play in. These factors include deficiencies in water or nutrients, environmental factors such as temperature and sunlight, and the presence of adequate levels of nutrients in the soil.
+The lack of correlation between inputs and the resulting lab analysis is not uncommon. Many factors, like deficiencies in water or nutrients, and environmental factors, such as temperature and sunlight, might affect the plant more than the input.
 
-Despite the lack of correlation in this case, diagrams are provided in the following section to visualize the differences between the control and experimental beds.
+Despite the lack of correlation, diagrams are provided in the following sections to visualize the differences between the control and experimental beds.
 
 The reports from laboratories are included in the appendix.
 
@@ -224,7 +220,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | Low | Low | Low |
 | Calcium (kg/ha) | Low | Low | Low |
 | Magnesium (kg/ha) | Pretty High | Pretty High | Pretty High |
-| Sodium (kg/ha) | Good | High | High |
+| Natrium (kg/ha) | Good | High | High |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | Low | Low | Low |
 | Zink (g/ha) | Good | Good | Good |
@@ -247,7 +243,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | Good | Pretty Low | Pretty Low |
 | Calcium (kg/ha) | Pretty Low | Pretty Low | Pretty Low |
 | Magnesium (kg/ha) | Good | Good | Pretty High |
-| Sodium (kg/ha) | Good | Good | Good |
+| Natrium (kg/ha) | Good | Good | Good |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | Pretty Low | Low | Low |
 | Zink (g/ha) | High | Pretty High | Pretty High |
@@ -270,7 +266,7 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Potasium (kg/ha) | High | High | High |
 | Calcium (kg/ha) | High | Low | Pretty High |
 | Magnesium (kg/ha) | Pretty High | High | High |
-| Sodium (kg/ha) | Pretty High | Pretty High | Pretty High |
+| Natrium (kg/ha) | Pretty High | Pretty High | Pretty High |
 | Silicon (kg/ha) | High | High | High |
 | Iron (g/ha) | High | High | High |
 | Zink (g/ha) | Good | Good | Good |
@@ -283,15 +279,15 @@ Diagrams are included below to visually compare the spring, control, and experim
 
 #### Comments on Soil tests
 
-It is challenging to determine the specific effects of the inputs on the soil based on the observed differences between the experiment and control beds. While some variations were observed between the two beds in the laboratory's categorization of the results, the overall categorization remained largely unchanged from the spring to the late season tests.
+The soil tests do not indicate that the biofertilizer has affected the soil in this case study. The experiment and control beds are scored very similarly across all tomato producers.
 
 #### Result: Leaf analysis
 
-Due to miscommunication. _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
+Due to miscommunication, _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
 
-Despite these differences, the results were still similar enough to be considered relevant for this case study. It is important to note that the use of different tests and laboratories may affect the reliability of the results and should be taken into consideration when interpreting the data.
+Despite these differences, the results were still similar enough to be considered relevant for this case study.
 
-The results of the leaf analysis tests were categorized as "low", "pretty low", "good", "pretty high", or "high". However, for Timmervikens skafferi and Branseröd Gård, only the categories of "low", "good", and "high" were applicable. These values are shown in tables in the following section.
+The results of the leaf analysis for _Timmervikens skafferi_ and _Branseröds gård_ were categorized as "low," "pretty low," "good," "pretty high," or "high." For Timmervikens skafferi and Branseröd Gård, only the categories of "low," "good," and "high" were applicable.
 
 #### Leaf analysis for _Timmervikens skafferi_
 
@@ -304,7 +300,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Potasium (mg/l) | Good | Good |
 | Calcium (mg/l) | Low | Low |
 | Magnesium (mg/l) | Good | Good |
-| Sodium (mg/l) | High | High |
+| Natrium (mg/l) | High | High |
 | Silicon (mg/l) | Low | Low |
 | Iron (mg/l) | High | High |
 | Zink (mg/l) | High | High |
@@ -350,7 +346,7 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 | Potasium (mg/l) | Good | High |
 | Calcium (mg/l) | Low | Low |
 | Magnesium (mg/l) | Good | Low |
-| Sodium (mg/l) | High | High |
+| Natrium (mg/l) | High | High |
 | Silicon (mg/l) | Low | Low |
 | Iron (mg/l) | Low | Low |
 | Zink (mg/l) | Good | High |
@@ -365,13 +361,13 @@ The results of the leaf analysis tests were categorized as "low", "pretty low", 
 
 #### Comments on Leaf analysis
 
-While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the inputs on tomato plants. For example, at _Branseröds gård_, the experiment bed showed more values classified as "good" compared to the control bed. However, this pattern is not consistently observed across all producers or beds.
+While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the biofertilizer.
 
-Overall, the data provides some insights into the effects of the inputs on tomato plants, but further research and analysis will likely be needed to more fully understand the impact of the input.
+At _Branseröds gård_, the experiment bed had significantly more values classified as "good" than the control bed. However, this pattern is not consistently observed across all producers or beds.
 
 #### Fruit analysis
 
-It should be stressed that one can not compare the results between the producers as these values are, among other things, dependent on variety.
+It should be stressed that one can not compare the results between the producers as these values are, among other things, dependent on variety and ripeness.
 
 #### Tomato tests for _Timmervikens skafferi_
 
@@ -389,11 +385,9 @@ It should be stressed that one can not compare the results between the producers
 
 The results for lycopene and vitamin C levels among the producers were mixed.
 
-For one producer, the experiment bed had higher levels of both nutrients, while for another producer, the experiment bed had lower levels for both nutrients. The third producer showed the another pattern, with higher levels of vitamin C in the experiment bed but lower levels of lycopene.
+For _Timmervikens skafferi_, the experiment bed had higher levels of both nutrients, while for _Branseröd Gård_, the experiment bed had lower levels for both nutrients. For _Vävra köksträdgård_ it showed the another pattern, with higher levels of vitamin C in the experiment bed but lower levels of lycopene.
 
 Overall, the data does not support any clear conclusions about the potential effects of the biofertilizer.
-
-Further analysis and research may be needed to better understand the relationship between inputs and tomato quality.
 
 Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[14][LVLD]].
 
@@ -421,16 +415,64 @@ The problem of getting consistent BRIX readings, raises concerns about the relia
 
 These result provide no strong evidence to suggest that the biofertilizer had a significant impact on the plants in this study.
 
-### Discussion
-
-#### Experiment/Case study
+### Summary of tests and analysis
 
 Despite analyzing various aspects of soil and plant health, this study was unable to draw any conclusions about the impact of using this biofertilizer on the health of the producers' tomato plants and tomatoes.
 
-This may be due to the complex and varied environmental factors that can influence plant health, such as nutrient deficiencies and water availability. It is challenging to isolate the specific effects of the biofertilizer in this context.
+As mentioned earlier, this may be due to the complex and varied environmental factors that can influence plant health.
 
 Another related reason for not being able to measure effects of the bio-stimulating properties of the experiment substance, could be that the producers already have a microbiologically rich soil. All of them use methodoliges that both protects and promotes the microbiology.
 
-#### Interviews
+## Interviews
 
-TDB!
+The following sections summarize the responses from the (semi-structured) interviews relevant to this study.
+
+Each interview, along with its questions and answers (summarized), is available in the appendix.
+
+### The Biofertilizer
+
+None of the substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
+
+_Bee Urban_ observed that the biofertilizer seems to perform at least as well as worm compost[[15][VERM]] and bokashi[[16][BOKASHI]].
+
+_Branseröd gård_'s control bed had problems with blossom-end rot[[17][BER]] which the experiment bed did not. The other tomato producers did not see any difference concerning pests and diseases.
+
+The producers found it easy to mix and apply the biofertilizer in their beds.
+
+A note on _Branseröd gård_: As mentioned earlier, the tests were conducted in relatively poor tomato conditions. The growing medium is semi-decomposed animal bedding (cow), which could be an explanation of the remarkable results.
+
+A note on _Timmervikens gård_: It was mentioned in the interview that the experiment bed had slightly more sun exposure, which could explain the difference in yield.
+
+[VERM]: https://en.wikipedia.org/wiki/Vermicompost
+[BOKASHI]: https://en.wikipedia.org/wiki/Bokashi_(horticulture)
+[BER]: https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
+
+### Measuring BRIX
+
+All of the tomato produers had problems getting consistent readings of BRIX. Measurements performed on samples from same plant, only seconds apart, could yield significatly different readings.
+
+As a consequence of this it was impossible for them to conclude any difference between the control and experiment beds.
+
+All of the tomato producers will continue measuring BRIX and hope to find a more consistent way of getting results.
+
+These tests was not performed by _Bee Urban_
+
+### Soil tests
+
+All of the tomato producers had done soil tests previously and nothings in the results surprised them.
+
+These tests was not performed by _Bee Urban_
+
+### Leaf tests
+
+The results of the leaf tests showed very little difference between control and experiment bed. On top of that their results are hard to interpret for the producers.
+
+These tests was not performed by _Bee Urban_
+
+### Crop tests
+
+These tests was especially interesting to the tomato producers, it was mentioned that the results could be used as selling-point for their tomatoes.
+
+These tests was not performed by _Bee Urban_
+
+## Conclusion and discussion
