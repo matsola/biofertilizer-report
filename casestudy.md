@@ -39,7 +39,7 @@ Measuring BRIX is easy with a refractometer and can be done in the field; a test
 
 A common problem when conducting case studies is environmental factors (like water, deficiencies/excess nutrients) that play in. Therefore, the trial compares two beds (experiment and control) in close vicinity with similar conditions.
 
-When gardening, one tries to manipulate a system so complicated that it is almost impossible to foresee a particular action's consequences. Parts of the system one can control to some extent, like water availability. Other parts of the system are harder to manipulate and understand how they relate, like temperature, sun exposure, bugs, pests, and soil microbiome, to name a few. Consequently, gardeners resort to gut feeling when making decisions based on previous experience, intuition, convictions, etc.
+When gardening, one tries to manipulate a system so complicated that it is almost impossible to foresee a particular action's result. Parts of the system one can control to some extent, like water availability. Other parts of the system are harder to manipulate and understand how they relate, like temperature, sun exposure, bugs, pests, and soil microbiome, to name a few. Consequently, gardeners resort to gut feeling when making decisions based on previous experience, intuition, convictions, etc.
 
 The gut feelings of the producers and gardeners are relevant to this case study since not _everything_ is measurable, nor is _everything_ sent to a lab for analysis in this case study. Therefore, interviews were conducted with the producers and gardeners to capture these intangible dimensions of gardening.
 
@@ -51,7 +51,7 @@ The gut feelings of the producers and gardeners are relevant to this case study 
 
 The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 300-1050 square meters. These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
-They manage their lands with ideas from _conservation agriculture_[[4][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
+They manage their lands with ideas from _Conservation Agriculture_[[4][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
 The producers operate on the west coast of Sweden, in Kungälv, Stenungssund, and Ljungskile (20-60 km north of Gothenburg).
 
@@ -63,7 +63,7 @@ The case study was performed in their market gardens.
 
 _Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (_Pieris brassicae_), inputs with _Bacillus Thurengensis_ inoculants are used[[5][BT]]. Ferric Phosphate pellets are used to control slugs (_Arion vulgaris_)[[6][SLUG]].
 
-The farm practices no-till/no-dig management methods[[7][NOTILL]] and actively promotes the soil microbiology.
+The farm practices _no-till_/_no-dig_/_Conservation Agriculture_ management methods[[7][NOTILL]] and actively promotes the soil microbiology.
 
 [BT]: https://en.wikipedia.org/wiki/Bacillus_thuringiensis
 [SLUG]: https://en.wikipedia.org/wiki/Spanish_slug
@@ -73,34 +73,31 @@ The farm practices no-till/no-dig management methods[[7][NOTILL]] and actively p
 
 _Branseröds gård_ operates on fifthteen 10 square meters of beds, as well as an additional 100 square meters for growing crops like potatoes and corn. On top of that, _Branseröds gård_ have 168 square meters of greenhouse beds.
 
-Fertilizer inputs are sourced on-farm from cows, sheep, and goats, specifically using cow deep bedding in their greenhouse beds.
+Fertilizer inputs are sourced on-farm from cows, sheep, and goats.
 
 To control caterpillars of the "large white", they use _Bacillus Thurengensis_ inoculants once a year.
 
-Management methods originates in no-till/no-dig
-
-Instead of tilling or cultivating the beds, they use a broad fork to aerate the beds before the growing season and cover the beds with plastic during the winter.
+Instead of tilling or cultivating the beds, a broad fork is used to aerate the beds before the growing season. Over winter beds are covered with tarps.
 
 The tests were conducted in the greenhouse, which had relatively poor tomato conditions. The growing medium is semi-decomposed animal bedding (cow).
-
-Remark: the experiment bed had possibly a bit better conditions that the test bed.
 
 ### Vävra köksträdgård
 
 _Vävra köksträdgård_ operates on seven 20m x 0,7m beds and two greenhouses 90 square meters, 65 square meters respectively.
 
-The primary fertilizer input is lucern pellets. In addition, ferric phosphate pellets are used to control slugs (_Arion vulgaris_) and inoculants with  _Bacillus Thurengensis_ to control caterpillars of the "large white."
+The primary fertilizer input is lucern pellets. In addition, ferric phosphate pellets are used to control slugs and inoculants with  _Bacillus Thurengensis_ to control caterpillars of the "large white."
 
-Like the other producers, _Vävra köksträdgårds_'s management methods originate in no-till/no-dig and, among other things, avoid excess cultivation of the beds. Once a year, all beds are aerated using a broad fork. Has started to use cover crops and wish to do more of that going forward.
+Like the other producers, _Vävra köksträdgårds_'s management methods originate in _no-till_/_no-dig_/_Conservation Agriculture_ and, among other things, avoid excess cultivation of the beds. Once a year, all beds are aerated using a broad fork. Has started to use cover crops and wish to do more of that going forward.
 
 The tests were conducted in one of the greenhouses.
 
 ### Gardeners from Bee Urban
 
-Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, and other insects.
+Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, beetles, and other insects.
 
 Their clients are typically larger businesses and municipalities. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
 TODO!!! Kolla siffrorna.
+
 [BU]: https://beeurban.se/
 
 ## Method
@@ -109,7 +106,7 @@ TODO!!! Kolla siffrorna.
 
 The three vegetable producers set up two tomato green house beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same varieties of tomatoes.
 
-Each producer received two jars, one containing the biofertilizer and the other serving as the control substance. The jars were labeled to keep them separate, and instructions on how to prepare, apply, and measure BRIX were also provided.
+Each producer received two jars, one containing the biofertilizer and the other containing the control substance. The jars were labeled to keep them separate, and instructions on how to prepare, apply, and measure BRIX were also provided.
 
 The substances were diluted at a ratio of 1:150 before application, which was done using a handheld low-pressure sprayer as a foliar spray. Applications were conducted either early in the morning or late in the evening, as per the instructions. The producers randomly assigned one jar to one bed and the other jar to the other bed.
 
@@ -131,14 +128,14 @@ Throughout the case study, samples were taken from the experiment and control be
 
 The samples were taken at the same time and packed and deliviered as prescibed by the laboratory.
 
-Overall, the following tests were performed:
+The following tests were performed:
 
 - Soil analysis in early spring (before the growing season started),
 - Leaf for analysis (samples were sent when fruit started ripening)
 - Tomato analysis for measuring lycopene levels and vitamin C (considered to be quality indicators of tomatoes)
 - Soil analysis in late autumn (after the growing season ended)
 
-On top of that BRIX was measured and recorded before and after every application of the substances with a few hours apart.
+On top of that _BRIX_ was measured and recorded before and after every application of the substances with a few hours apart.
 
 The reports from the analyses can be found in the appendix of this report.
 
@@ -148,7 +145,7 @@ Each test is explained in more detail below.
 
 To understand the effects of the inputs on soil quality, each producer conducted a soil test in the early season (May) and two additional tests in the control and experimental beds during the late season (December). The spring test reports provide a baseline measurement of the chemical composition of the soil before any inputs were applied, while the late season tests reveal the potential impacts of the inputs on the soil's chemical composition over the course of the growing season.
 
-The Spurway method was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
+The _Spurway method_ was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
 
 The spring sample was collected from only one of the beds. The autumn samples was collected from both experiment and control beds.
 
@@ -192,15 +189,11 @@ Measurements started after the plants had reached the size where removing leaves
 
 ### Interviews with the producers and gardeners
 
-Semi-structured interviews with the three vegetable producers and Bee Urban were done to capture the hard-to-measure aspects of their experiences using the biofertilizer. It serves as a good complement to the findings of the lab analyses.
+Semi-structured interviews with the participants were done to capture the hard-to-measure aspects of their experiences using the biofertilizer. It serves as a good complement to the findings of the lab analyses.
 
 ## Result
 
-The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the study.
-
-The lack of correlation between inputs and the resulting lab analysis is not uncommon. Many factors, like deficiencies in water or nutrients, and environmental factors, such as temperature and sunlight, might affect the plant more than the input.
-
-Despite the lack of correlation, diagrams are provided in the following sections to visualize the differences between the control and experimental beds.
+The coming sections summarize the lab results performed in the case study. Further down, there is a summary of the interviews.
 
 The reports from laboratories are included in the appendix.
 
@@ -423,13 +416,13 @@ As mentioned earlier, this may be due to the complex and varied environmental fa
 
 Another related reason for not being able to measure effects of the bio-stimulating properties of the experiment substance, could be that the producers already have a microbiologically rich soil. All of them use methodoliges that both protects and promotes the microbiology.
 
-## Interviews
+### Interviews
 
 The following sections summarize the responses from the (semi-structured) interviews relevant to this study.
 
 Each interview, along with its questions and answers (summarized), is available in the appendix.
 
-### The Biofertilizer
+#### The Biofertilizer
 
 None of the substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
 
@@ -447,7 +440,7 @@ A note on _Timmervikens gård_: It was mentioned in the interview that the exper
 [BOKASHI]: https://en.wikipedia.org/wiki/Bokashi_(horticulture)
 [BER]: https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
 
-### Measuring BRIX
+#### Measuring BRIX
 
 All of the tomato produers had problems getting consistent readings of BRIX. Measurements performed on samples from same plant, only seconds apart, could yield significatly different readings.
 
@@ -457,22 +450,80 @@ All of the tomato producers will continue measuring BRIX and hope to find a more
 
 These tests was not performed by _Bee Urban_
 
-### Soil tests
+#### Soil tests
 
 All of the tomato producers had done soil tests previously and nothings in the results surprised them.
 
 These tests was not performed by _Bee Urban_
 
-### Leaf tests
+#### Leaf tests
 
 The results of the leaf tests showed very little difference between control and experiment bed. On top of that their results are hard to interpret for the producers.
 
 These tests was not performed by _Bee Urban_
 
-### Crop tests
+#### Crop tests
 
 These tests was especially interesting to the tomato producers, it was mentioned that the results could be used as selling-point for their tomatoes.
 
 These tests was not performed by _Bee Urban_
 
-## Conclusion and discussion
+## Analysis and discussion
+
+The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the case study.
+
+There are many possible explanations for the results:
+
+1) The biofertilizer does not have any effect on crops,
+2) The tomato producers' management system, soil, and so on, provide that crop with everything it already needs, hence effectively making the biofertilizer redundant,
+3) External factors, like deficiencies in water or nutrients, temperature, and sunlight, to name a few, affect the plants more than the biofertilizer
+
+### 1
+
+It could be as simple as the biofertilizer does not affect the crops _(i)_. Another explanation is that the function of the biofertilizer as a microbial inoculant has no effect _(ii)_ (i.e. it only adds more nutrients).
+
+However, both _(i)_ and _(ii)_ are, to some extent, questioned by a few of the participants in the study.
+
+_Branseröd gård_ had a 300% increase in yield, and fewer problems with diseases, compared to the control bed. Still, as mentioned earlier, the soil conditions at _Branseröd gård_ might be a root of uncertainty.
+
+_Timmervikens skafferi_ had a 10% increase in yield compared to the control. However, there were also a few questions about differences in sun exposure. The experiment had better conditions than the control.
+
+_Bee Urban_ finds that the biofertilizer works at least as well as bokashi and worm compost. Note: _Bee Urban_ did not have control.
+
+To better understand _(ii)_, the experiment should have included a third bed where none of the substances are used. Then compare the three of them.
+
+Another obvious but unlikely explanation is that the tests performed (soil, leaf, BRIX, and crop) do not detect the effects of the biofertilizer.
+
+### 2
+
+All of the participants are well aware of _Conservation Agriculture_ and are adopting ideas from it, implying that the participants already have a rich soil biome making the biofertilizer redundant (or severly decrease the effects of it).
+
+To better understand this, the participants should have been selected with more care.
+
+The experiment should also have included more vegetable producers/gardeners adhering to other methodologies like (optimally >2 from each):
+
+- _Conventional_, using synthetic fertilizeers and pesticides inputs, mechanical soil distubrance,
+- _Organic_, using organic fertilizer inputs and relying heavily on tillage and cultivation, for instance
+- ...
+
+### 3
+
+The lack of correlation between inputs and the resulting lab analysis is not uncommon. Many factors, like deficiencies in water or nutrients, and environmental factors, such as temperature and sunlight, might affect the plant more than the input.
+
+One needs a controlled environment, perhaps in a laboratory, to circumvent this.
+
+### About the interviews
+
+As described earlier, gardening is about managing a very complex system, and many decisions are based on intuition and gut feeling. The interviews gives us some understanding of these intangible things.
+
+The participants has had a good experience using the biofertilizer overall. It's easy to prepare and apply.
+
+_Branseröd Gård_ and _Timmervikens skafferi_ has had good results, comparing the yields from experiment bed and control bed (the other two did not compare/could not measure yield).
+
+## Conclusion
+
+The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the case study.
+
+Nevertheless, the participants of the study was positive to the use of the biofertilizer and the two participants that measured yield saw increases (300% and 10%). But if this is solely a consequence the biofertilizer or differences between control and experiment bed can not concluded.
+
+There are many possible explanations for the result, and further research is required to be able to conclude the biofertilizers effectivness.
