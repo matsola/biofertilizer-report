@@ -14,6 +14,8 @@ Apart from these analyses, semi-structured interviews were conducted with the ve
 
 From the laboratory test results, we could not conclude decisive effects on plant health or crop.
 
+During the interview, case study participants were positive to the biofertilizer (easy to prepare and use). In addition, the two participants measuring yield recorded increases (10% and 300%) compared to the control. However, the case study can not conclude that external factors do not cause an increase in yield.
+
 The study is made possible with the funding of _Leader Södra Bohuslän_[[3][LSB]] and _Jordbruksverket_[[4][JBV]].
 
 [LSB]:https://www.leadersodrabohuslan.se/
@@ -91,7 +93,7 @@ Like the other producers, _Vävra köksträdgårds_'s management methods origina
 
 The tests were conducted in one of the greenhouses.
 
-### Gardeners from Bee Urban
+### Bee Urban
 
 Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, beetles, and other insects.
 
@@ -420,7 +422,7 @@ Another related reason for not being able to measure effects of the bio-stimulat
 
 The following sections summarize the responses from the (semi-structured) interviews relevant to this study.
 
-Each interview, along with its questions and answers (summarized), is available in the appendix.
+Each interview and its questions and answers (summarized) are available in the appendix.
 
 #### The Biofertilizer
 
@@ -478,7 +480,7 @@ There are many possible explanations for the results:
 2) The tomato producers' management system, soil, and so on, provide that crop with everything it already needs, hence effectively making the biofertilizer redundant,
 3) External factors, like deficiencies in water or nutrients, temperature, and sunlight, to name a few, affect the plants more than the biofertilizer
 
-### 1
+### 1: The biofertilizer does not have any effect on crops
 
 It could be as simple as the biofertilizer does not affect the crops _(i)_. Another explanation is that the function of the biofertilizer as a microbial inoculant has no effect _(ii)_ (i.e. it only adds more nutrients).
 
@@ -494,7 +496,7 @@ To better understand _(ii)_, the experiment should have included a third bed whe
 
 Another obvious but unlikely explanation is that the tests performed (soil, leaf, BRIX, and crop) do not detect the effects of the biofertilizer.
 
-### 2
+### 2: The tomato producers' management system
 
 All of the participants are well aware of _Conservation Agriculture_ and are adopting ideas from it, implying that the participants already have a rich soil biome making the biofertilizer redundant (or severly decrease the effects of it).
 
@@ -506,7 +508,7 @@ The experiment should also have included more vegetable producers/gardeners adhe
 - _Organic_, using organic fertilizer inputs and relying heavily on tillage and cultivation, for instance
 - ...
 
-### 3
+### 3: External factors
 
 The lack of correlation between inputs and the resulting lab analysis is not uncommon. Many factors, like deficiencies in water or nutrients, and environmental factors, such as temperature and sunlight, might affect the plant more than the input.
 
@@ -518,12 +520,16 @@ As described earlier, gardening is about managing a very complex system, and man
 
 The participants has had a good experience using the biofertilizer overall. It's easy to prepare and apply.
 
-_Branseröd Gård_ and _Timmervikens skafferi_ has had good results, comparing the yields from experiment bed and control bed (the other two did not compare/could not measure yield).
+One factor that could question the validity of the case study is that the producers had a pretty good idea about which substances were the biofertilizer and the control. However, _Timmervikens skafferi_ and _Vävra Köksträdgård_ took measures to minimize the risk of compromising the case study.
+
+_Branseröd Gård_ and _Timmervikens skafferi_ measured yield and they recorded experiment bed and control bed (the other two did not compare/could not measure yield).
+
+In the end, yield differences will always exist between any two beds. Therefore, to conclude that the biofertilizer is the cause of the yield increase, a new, more extensive case study (involving more producers) probably needs to be performed that includes yield as one parameter.
 
 ## Conclusion
 
-The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators in the case study.
+The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators (soil, leaf, crop and BRIX).
 
-Nevertheless, the participants of the study was positive to the use of the biofertilizer and the two participants that measured yield saw increases (300% and 10%). But if this is solely a consequence the biofertilizer or differences between control and experiment bed can not concluded.
+The study participants were positive to the use of the biofertilizer, and the two participants that measured yield saw increases (300% and 10%). However, if this is a consequence of the biofertilizer or other factors can not be concluded.
 
 There are many possible explanations for the result, and further research is required to be able to conclude the biofertilizers effectivness.
