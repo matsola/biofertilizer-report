@@ -126,26 +126,23 @@ The two substances were then placed into sterilized jars, which were marked with
 
 ### Tests
 
-Throughout the case study, samples were taken from the experiment and control bed and sent to laboratory for analysis (expect for the _spring soil sample_ were only one sample was taken).
-
-The samples were taken at the same time and packed and deliviered as prescibed by the laboratory.
+Throughout the case study, samples were taken from beds and sent to a laboratory for analysis.
 
 The following tests were performed:
 
-- Soil analysis in early spring (before the growing season started),
-- Leaf for analysis (samples were sent when fruit started ripening)
-- Tomato analysis for measuring lycopene levels and vitamin C (considered to be quality indicators of tomatoes)
-- Soil analysis in late autumn (after the growing season ended)
-
-On top of that _BRIX_ was measured and recorded before and after every application of the substances with a few hours apart.
-
-The reports from the analyses can be found in the appendix of this report.
+- Soil analysis in early spring, a sample from one of the beds (before the growing season started),
+- Leaf for analysis, samples from both control and experiment beds (samples were sent when fruit started ripening)
+- Tomato analysis for measuring lycopene levels and vitamin C, samples from both control and experiment beds  (considered to be quality indicators of tomatoes)
+- Soil analysis in late autumn, samples from both control and experiment beds  (after the growing season ended)
+- BRIX was measured and recorded before and a few hours after every application of the substances.
 
 Each test is explained in more detail below.
 
 #### Soil analysis
 
-To understand the effects of the inputs on soil quality, each producer conducted a soil test in the early season (May) and two additional tests in the control and experimental beds during the late season (December). The spring test reports provide a baseline measurement of the chemical composition of the soil before any inputs were applied, while the late season tests reveal the potential impacts of the inputs on the soil's chemical composition over the course of the growing season.
+To understand the effects of the inputs on soil quality, each producer conducted a soil test in the early season (May) and two additional tests in the control and experimental beds during the late season (December).
+
+The spring test reports provide a baseline measurement of the chemical composition of the soil before any inputs were applied, while the late season tests reveal the potential impacts of the inputs on the soil's chemical composition over the course of the growing season.
 
 The _Spurway method_ was used for the soil tests, which provide information on the availability of nutrients in the soil. The laboratory results were categorized as "low", "pretty low", "good", "pretty high", or "high".
 
@@ -197,11 +194,9 @@ Semi-structured interviews with the participants were done to capture the hard-t
 
 The coming sections summarize the lab results performed in the case study. Further down, there is a summary of the interviews.
 
-The reports from laboratories are included in the appendix.
-
 ### Results: Soil analysis
 
-Diagrams are included below to visually compare the spring, control, and experimental test results.
+Diagrams are included below to visually compare the spring, control, and experiment test results.
 
 #### Soil tests for Timmervikens skafferi
 
@@ -412,7 +407,7 @@ These result provide no strong evidence to suggest that the biofertilizer had a 
 
 ### Summary of tests and analysis
 
-Despite analyzing various aspects of soil and plant health, this study was unable to draw any conclusions about the impact of using this biofertilizer on the health of the producers' tomato plants and tomatoes.
+Despite analyzing various aspects of soil, plant and crop, this study was unable to draw any conclusions about the impact of using this biofertilizer on the health of the producers' tomato plants and tomatoes.
 
 As mentioned earlier, this may be due to the complex and varied environmental factors that can influence plant health.
 
@@ -426,7 +421,7 @@ Each interview and its questions and answers (summarized) are available in the a
 
 #### The Biofertilizer
 
-None of the substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
+The substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
 
 _Bee Urban_ observed that the biofertilizer seems to perform at least as well as worm compost[[15][VERM]] and bokashi[[16][BOKASHI]].
 
@@ -486,9 +481,9 @@ It could be as simple as the biofertilizer does not affect the crops _(i)_. Anot
 
 However, both _(i)_ and _(ii)_ are, to some extent, questioned by a few of the participants in the study.
 
-_Branseröd gård_ had a 300% increase in yield, and fewer problems with diseases, compared to the control bed. Still, as mentioned earlier, the soil conditions at _Branseröd gård_ might be a root of uncertainty.
+_Branseröd gård_ had a 300% increase in yield, and fewer problems with diseases, compared to the control bed. Still, as mentioned earlier, the soil conditions at _Branseröd gård_ is causing uncertainty.
 
-_Timmervikens skafferi_ had a 10% increase in yield compared to the control. However, there were also a few questions about differences in sun exposure. The experiment had better conditions than the control.
+_Timmervikens skafferi_ had a 9% increase in yield compared to the control. However, there were also a few questions about differences in sun exposure. The experiment had better conditions than the control.
 
 _Bee Urban_ finds that the biofertilizer works at least as well as bokashi and worm compost. Note: _Bee Urban_ did not have control.
 
@@ -498,7 +493,7 @@ Another obvious but unlikely explanation is that the tests performed (soil, leaf
 
 ### 2: The tomato producers' management system
 
-All of the participants are well aware of _Conservation Agriculture_ and are adopting ideas from it, implying that the participants already have a rich soil biome making the biofertilizer redundant (or severly decrease the effects of it).
+All of the participants are well aware of _Conservation Agriculture_ and are adopting ideas from it, implying that the participants could already have a rich soil biome making the biofertilizer redundant (or severly decrease the effects of it).
 
 To better understand this, the participants should have been selected with more care.
 
@@ -520,7 +515,7 @@ As described earlier, gardening is about managing a very complex system, and man
 
 The participants has had a good experience using the biofertilizer overall. It's easy to prepare and apply.
 
-One factor that could question the validity of the case study is that the producers had a pretty good idea about which substances were the biofertilizer and the control. However, _Timmervikens skafferi_ and _Vävra Köksträdgård_ took measures to minimize the risk of compromising the case study.
+One factor that could question the validity of the case study is that the producers had a pretty good idea about which substances were the biofertilizer and the control. However, all producers took measures to minimize the risk of compromising the case study.
 
 _Branseröd Gård_ and _Timmervikens skafferi_ measured yield and they recorded experiment bed and control bed (the other two did not compare/could not measure yield).
 
@@ -530,6 +525,6 @@ In the end, yield differences will always exist between any two beds. Therefore,
 
 The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators (soil, leaf, crop and BRIX).
 
-The study participants were positive to the use of the biofertilizer, and the two participants that measured yield saw increases (300% and 10%). However, if this is a consequence of the biofertilizer or other factors can not be concluded.
+The study participants were positive to the use of the biofertilizer, and the two participants that measured yield saw increases (300% and 9%). However, if this is a consequence of the biofertilizer or other factors can not be concluded.
 
 There are many possible explanations for the result, and further research is required to be able to conclude the biofertilizers effectivness.
