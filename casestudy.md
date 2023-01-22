@@ -61,7 +61,7 @@ The producers in this experiment are all small-scale vegetable producer that gro
 
 They manage their lands with ideas from _Conservation Agriculture_[[7][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
-The producers operate on the west coast of Sweden, in Kungälv, Stenungssund, and Ljungskile (20-60 km north of Gothenburg).
+The producers operate on the west coast of Sweden, in Kungälv, Stenungsund, and Ljungskile (20-60 km north of Gothenburg).
 
 The case study was performed in their market gardens.
 
@@ -138,7 +138,7 @@ The following tests were performed:
 
 - Soil analysis in early spring, a sample from one of the beds (before the growing season started),
 - Leaf for analysis, samples from both control and experiment beds (samples were sent when fruit started ripening)
-- Tomato analysis for measuring lycopene levels and vitamin C, samples from both control and experiment beds  (considered to be quality indicators of tomatoes)
+- Tomato analysis for measuring lycopene levels and vitamin C, samples from both control and experiment beds
 - Soil analysis in late autumn, samples from both control and experiment beds  (after the growing season ended)
 - BRIX was measured and recorded before and a few hours after every application of the substances.
 
@@ -172,7 +172,7 @@ Vitamin C is an essential nutrient to maintain a healthy immune system and is al
 
 In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
 
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[16][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[16][LVTOM]], since it closely relates on the ripeness and the variety of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
@@ -410,14 +410,6 @@ The producers found it challenging to get consistent readings, as two samples fr
 The problem of getting consistent BRIX readings, raises concerns about the reliability of these measurements presented. If a similar study is to be done in the future, one needs to find ways to increase the reliability of BRIX readings.
 
 These result provide no strong evidence to suggest that the biofertilizer had a significant impact on the plants in this study.
-
-### Summary of tests and analysis
-
-Despite analyzing various aspects of soil, plant and crop, this study was unable to draw any conclusions about the impact of using this biofertilizer on the health of the producers' tomato plants and tomatoes.
-
-As mentioned earlier, this may be due to the complex and varied environmental factors that can influence plant health.
-
-Another related reason for not being able to measure effects of the bio-stimulating properties of the experiment substance, could be that the producers already have a microbiologically rich soil. All of them use methodoliges that both protects and promotes the microbiology.
 
 ### Interviews
 
