@@ -523,3 +523,19 @@ The case study was unable to differentiate between the control and experimental 
 The study participants were positive to the use of the biofertilizer, and the two participants that measured yield saw increases (300% and 9%). However, if this is a consequence of the biofertilizer or other factors can not be concluded.
 
 There are many possible explanations for the result, and further research is required to be able to conclude the biofertilizers effectivness.
+
+## Appendix
+
+[Interview with Branseröd gård](questions_and_answers_branserod.md)
+
+[Interview with Timmervikens skafferi](questions_and_answers_branserod.md)
+
+[Interview with Vävra köksträdgård](questions_and_answers_vavra.md)
+
+## Special thanks to
+
+Gerry Gillespie for providing open sourcing his receipes.
+
+Leader Södra Bohuslän for providing the necessary funding, tools, and administrative support for realizing the case study.
+
+Peter Holmdahl for providing comments and feedback on this article.
