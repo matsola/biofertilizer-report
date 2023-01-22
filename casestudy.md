@@ -515,7 +515,7 @@ The participants has had a good experience using the biofertilizer overall. It's
 
 One factor that could question the validity of the case study is that the producers had a pretty good idea about which substances were the biofertilizer and the control. However, all producers took measures to minimize the risk of compromising the case study.
 
-_Branseröd Gård_ and _Timmervikens skafferi_ also measured yield differences (the other two did not compare/could not measure yield).
+_Branseröd Gård_ and _Timmervikens skafferi_ also measured yield differences found differences (the other two did not compare/could not measure yield).
 
 In the end, yield differences will always exist between any two beds. Therefore, to conclude that the biofertilizer is the cause of the yield increase, a new, more extensive case study (involving more producers) probably needs to be performed that includes yield as one parameter.
 
