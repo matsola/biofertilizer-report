@@ -10,7 +10,7 @@ In the experiment, we measure the performance of a biofertilizer that is easy to
 
 Three small-scale vegetable producers conducted the trials for this case study, and soil samples, leaf samples, and crop samples were sent for laboratory analysis. On top of that, the producers measured BRIX throughout the growing season to monitor plant health.
 
-Apart from these analyses, semi-structured interviews were conducted with the vegetable producers. Gardeners from an urban gardening company, who also trialed the biofertilizer, are included in the interview.
+Apart from the plant analyses, semi-structured interviews were conducted with the vegetable producers. Gardeners from an urban gardening company, who also trialed the biofertilizer, are included in the interview.
 
 From the laboratory test results, we could not conclude decisive effects on plant health or crop.
 
@@ -41,11 +41,11 @@ Three local vegetable producers (introduced below) conducted experiments to eval
 
 During the growing season, laboratories conducted several tests (soil analysis, leaf analysis, and crop analysis). Apart from that, the producers also measured BRIX.
 
-"The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[6][JKEMPF]]
+Thre reasoning behind using BRIX is given by John Kempf: "The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[6][JKEMPF]]
 
 Measuring BRIX is easy with a refractometer and can be done in the field; a test takes seconds or minutes to complete. The higher the reading, the better plant performance and health. Unfortunately, it only hints at plant health, and one can not make conclusions (like specific nutrient deficiencies) based on its reading.
 
-A common problem when conducting case studies is environmental factors (like water, deficiencies/excess nutrients) that play in. Therefore, the trial compares two beds (experiment and control) in close vicinity with similar conditions.
+A common problem when conducting case studies is environmental factors, like water, deficiencies/excess nutrients in the soil, etc., that can affect the experiments without being measured and controlled. Therefore, the trial compares two beds on each farm (experiment and control) in close vicinity with similar conditions.
 
 When gardening, one tries to manipulate a system so complicated that it is almost impossible to foresee a particular action's result. Parts of the system one can control to some extent, like water availability. Other parts of the system are harder to manipulate and understand how they relate, like temperature, sun exposure, bugs, pests, and soil microbiome, to name a few. Consequently, gardeners resort to gut feeling when making decisions based on previous experience, intuition, convictions, etc.
 
@@ -57,7 +57,7 @@ The gut feelings of the producers and gardeners are relevant to this case study 
 
 ### The vegetable producers
 
-The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 300-1050 square meters. These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
+The producers in this experiment are all small-scale vegetable producers that grow ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 300-1050 square meters. These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
 They manage their lands with ideas from _Conservation Agriculture_[[7][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
@@ -112,13 +112,11 @@ TODO!!! Kolla siffrorna.
 
 ### Experiment setup
 
-The three vegetable producers set up two tomato green house beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same varieties of tomatoes.
+Each vegetable producer set up two tomato green house beds with similar conditions, including sun exposure, soil type, and water availability. Both beds were planted with the same varieties of tomatoes.
 
-Each producer received two jars, one containing the biofertilizer and the other containing the control substance. The jars were labeled to keep them separate, and instructions on how to prepare, apply, and measure BRIX were also provided.
+Each producer received two jars, one containing the biofertilizer and the other containing the control substance. The jars were labeled to help separate the two. Instructions on how to prepare and apply the mixtures were provided, as well as instructions for measuring BRIX.
 
-The substances were diluted at a ratio of 1:150 before application, which was done using a handheld low-pressure sprayer as a foliar spray. Applications were conducted either early in the morning or late in the evening, as per the instructions. The producers randomly assigned one jar to one bed and the other jar to the other bed.
-
-The first application of biofertilizer was made to the roots of the tomatoes before planting. Approximately every second week throughout the growing season, additional applications were made.
+The substances were diluted at a ratio of 1:150 before application. Applications were made using a handheld low-pressure sprayer as a foliar spray every second week throughout the growing season. This was conducted either early in the morning or late in the evening, as per the instructions. The producers randomly assigned one jar to one bed and the other jar to the other bed.
 
 ### Prepation of substances
 
@@ -138,8 +136,8 @@ The following tests were performed:
 
 - Soil analysis in early spring, a sample from one of the beds (before the growing season started),
 - Leaf for analysis, samples from both control and experiment beds (samples were sent when fruit started ripening)
-- Tomato analysis for measuring lycopene levels and vitamin C, samples from both control and experiment beds
-- Soil analysis in late autumn, samples from both control and experiment beds  (after the growing season ended)
+- Tomato analysis for measuring lycopene levels and vitamin C; samples from both control and experiment beds
+- Soil analysis in late autumn; samples from both control and experiment beds (after the growing season ended)
 - BRIX was measured and recorded before and a few hours after every application of the substances.
 
 Each test is explained in more detail below.
@@ -172,7 +170,7 @@ Vitamin C is an essential nutrient to maintain a healthy immune system and is al
 
 In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
 
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[16][LVTOM]], since it closely relates on the ripeness and the variety of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[16][LVTOM]], since it closely relates to the ripeness and the variety of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
@@ -186,7 +184,7 @@ Measuring BRIX, or degrees Brix (°Bx), of the plant's sap, indicates the plant'
 
 Plant sap with high sugar levels means that the plant is receiving sufficient nutrients and light, while low levels may suggest that the plant is experiencing stress or not getting enough nutrients.
 
-A small sample of plant sap was extracted (with a garlic press) from the plant leaves and then measured with a digital refractometer.  
+A small sample of plant sap was extracted with a garlic press from the plant leaves and then measured with a digital refractometer.  
 
 The case study measured BRIX before and a couple of hours after applying the biofertilizer.
 
@@ -273,13 +271,13 @@ Diagrams are included below to visually compare the spring, control, and experim
 | Molybdenum (g/ha) | High | High | High |
 | Selenium (g/ha) | Pretty Low | Low | Low |
 
-#### Comments on Soil tests
+#### Analysis of Soil test results
 
 The soil tests do not indicate that the biofertilizer has affected the soil in this case study. The experiment and control beds are scored very similarly across all tomato producers.
 
 #### Result: Leaf analysis
 
-Due to miscommunication, _Timmervikens skafferi_ and _Branseröds gård_ used the same test, while _Vävra Köksträdgård_ used a different one.
+Due to miscommunication, _Timmervikens skafferi_ and _Branseröds gård_ used the same test performed by one laboratory, while _Vävra Köksträdgård_ used a different one.
 
 Despite these differences, the results were still similar enough to be considered relevant for this case study.
 
@@ -355,7 +353,7 @@ The results of the leaf analysis for _Timmervikens skafferi_ and _Branseröds g�
 | Conductivity (mS/cm) | Good | High |
 | Sugar (BRIX) | Good | Good |
 
-#### Comments on Leaf analysis
+#### Analysis on Leaf analysis results
 
 While some differences between the control and experiment beds were observed in the data, it is difficult to draw any definitive conclusions about the impact of the biofertilizer.
 
@@ -377,7 +375,7 @@ It should be stressed that one can not compare the results between the producers
 
 ![image](charts/tomato/lycopene-branserod.png) ![image](charts/tomato/c-branserod.png)
 
-#### Comments on Tomato tests
+#### Analysis of Tomato test results
 
 The results for lycopene and vitamin C levels among the producers were mixed.
 
@@ -405,7 +403,7 @@ The producers found it challenging to get consistent readings, as two samples fr
 
 ![image](charts/brix/brix-branserod.png)
 
-#### Comments on BRIX readings
+#### Analysis of BRIX readings
 
 The problem of getting consistent BRIX readings, raises concerns about the reliability of these measurements presented. If a similar study is to be done in the future, one needs to find ways to increase the reliability of BRIX readings.
 
@@ -415,9 +413,9 @@ These result provide no strong evidence to suggest that the biofertilizer had a 
 
 The following sections summarize the responses from the (semi-structured) interviews relevant to this study.
 
-Each interview and its questions and answers (summarized) are available in the appendix.
+Each interview and its questions and summarized answers are available in the appendix.
 
-#### The Biofertilizer
+#### Interview: Questions about the Biofertilizer
 
 The substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
 
@@ -435,7 +433,7 @@ A note on _Timmervikens gård_: It was mentioned in the interview that the exper
 [BOKASHI]: https://en.wikipedia.org/wiki/Bokashi_(horticulture)
 [BER]: https://en.wikipedia.org/wiki/Calcium_deficiency_(plant_disorder)
 
-#### Measuring BRIX
+#### Interview: Questions about measuring BRIX
 
 All of the tomato produers had problems getting consistent readings of BRIX. Measurements performed on samples from same plant, only seconds apart, could yield significatly different readings.
 
@@ -445,13 +443,13 @@ All of the tomato producers will continue measuring BRIX and hope to find a more
 
 These tests was not performed by _Bee Urban_
 
-#### Soil tests
+#### Interview: Questions about soil tests
 
 All of the tomato producers had done soil tests previously and nothings in the results surprised them.
 
 These tests was not performed by _Bee Urban_
 
-#### Leaf tests
+#### Interview: Questions about leaf tests
 
 The results of the leaf tests showed very little difference between control and experiment bed. On top of that their results are hard to interpret for the producers.
 
@@ -470,8 +468,10 @@ The case study was unable to differentiate between the control and experimental 
 There are many possible explanations for the results:
 
 1) The biofertilizer does not have any effect on crops,
-2) The tomato producers' management system, soil, and so on, provide that crop with everything it already needs, hence effectively making the biofertilizer redundant,
+2) The tomato producers' management system, soil, and so on, provide the crop with everything it already needs, hence effectively making the biofertilizer redundant,
 3) External factors, like deficiencies in water or nutrients, temperature, and sunlight, to name a few, affect the plants more than the biofertilizer
+
+These 3 options are discussed in the following sections.
 
 ### 1: The biofertilizer does not have any effect on crops
 
@@ -495,17 +495,16 @@ All of the participants are well aware of _Conservation Agriculture_ and are ado
 
 To better understand this, the participants should have been selected with more care.
 
-The experiment should also have included more vegetable producers/gardeners adhering to other methodologies like (optimally >2 from each):
+The experiment could also have included more vegetable producers/gardeners adhering to other methodologies like (optimally >2 from each):
 
 - _Conventional_, using synthetic fertilizeers and pesticides inputs, mechanical soil distubrance,
-- _Organic_, using organic fertilizer inputs and relying heavily on tillage and cultivation, for instance
-- ...
+- _Organic_, using organic fertilizer inputs and relying on tillage and cultivation
 
 ### 3: External factors
 
 The lack of correlation between inputs and the resulting lab analysis is not uncommon. Many factors, like deficiencies in water or nutrients, and environmental factors, such as temperature and sunlight, might affect the plant more than the input.
 
-One needs a controlled environment, perhaps in a laboratory, to circumvent this.
+To circumvent this, one needs a more controlled environment (perhaps in a laboratory) or a case study with more participants.
 
 ### About the interviews
 
@@ -515,13 +514,11 @@ The participants has had a good experience using the biofertilizer overall. It's
 
 One factor that could question the validity of the case study is that the producers had a pretty good idea about which substances were the biofertilizer and the control. However, all producers took measures to minimize the risk of compromising the case study.
 
-_Branseröd Gård_ and _Timmervikens skafferi_ also measured yield differences found differences (the other two did not compare/could not measure yield).
-
-In the end, yield differences will always exist between any two beds. Therefore, to conclude that the biofertilizer is the cause of the yield increase, a new, more extensive case study (involving more producers) probably needs to be performed that includes yield as one parameter.
+_Branseröd Gård_ and _Timmervikens skafferi_ also measured yield differences found positive differences comparing the experiment to control (the other two did not compare/could not measure yield). However, yield differences will always exist between any two beds. Therefore, to conclude that the biofertilizer is the cause of the yield increase, a new, more extensive case study (involving more producers) probably needs to be performed that includes yield as one parameter.
 
 ## Conclusion
 
-The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators (soil, leaf, crop and BRIX).
+The case study was unable to differentiate between the control and experimental beds in terms of the selected indicators (i.e. soil, leaf, crop and BRIX).
 
 The study participants were positive to the use of the biofertilizer, and the two participants that measured yield saw increases (300% and 9%). However, if this is a consequence of the biofertilizer or other factors can not be concluded.
 
