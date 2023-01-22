@@ -16,18 +16,24 @@ From the laboratory test results, we could not conclude decisive effects on plan
 
 During the interview, case study participants were positive to the biofertilizer (easy to prepare and use). In addition, the two participants measuring yield recorded increases (10% and 300%) compared to the control. However, the case study can not conclude that external factors do not cause an increase in yield.
 
-The study is made possible with the funding of _Leader Södra Bohuslän_[[3][LSB]] and _Jordbruksverket_[[4][JBV]].
+## Sponsors
+
+The study is made possible with the funding of _Leader Södra Bohuslän_[[1][LSB]], _EU_[[2][EU]] and _Jordbruksverket_[[3][JBV]].
 
 [LSB]:https://www.leadersodrabohuslan.se/
 [JBV]:https://www.jordbruksverket.se/
+[EU]:https://jordbruksverket.se/stod/programmen-som-finansierar-stoden/eu-fonderna
+
+| [![Leader logo](logos/Leader-EU.png)][JBV] | [![Co-funded by EU logo](logos/EN%20V%20Co-funded%20by_POS.png)][EU] | [![Leader södra bohuslän logo](logos/Logo-LEADER_SODRABOHUSLAN_Fargvit-768x224.png)][LSB] |
+|:---:|:---:|:---:|
 
 ## Introduction
 
-A biofertilizer is: "... a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant ... add nutrients through the natural processes of nitrogen fixation, solubilizing phosphorus, and stimulating plant growth through the synthesis of growth-promoting substances. The micro-organisms in biofertilizers restore the soil's natural nutrient cycle and build soil organic matter. Through the use of biofertilizers, healthy plants can be grown, while enhancing the sustainability and the health of the soil." [[1][BIOF]]
+A biofertilizer is: "... a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant ... add nutrients through the natural processes of nitrogen fixation, solubilizing phosphorus, and stimulating plant growth through the synthesis of growth-promoting substances. The micro-organisms in biofertilizers restore the soil's natural nutrient cycle and build soil organic matter. Through the use of biofertilizers, healthy plants can be grown, while enhancing the sustainability and the health of the soil." [[4][BIOF]]
 
 Enabling producers, farmers and gardeners to manufacture their fertilizers on-premise gives their operation higher resilience, cuts costs, and allows them to tailor the inputs to their specific needs, setting, and context.
 
-_Gerry Gillespie_ provides the recipe for the biofertilizer evaluated in this case study and offers it freely on his website. [[2][RECIPE]]
+_Gerry Gillespie_ provides the recipe for the biofertilizer evaluated in this case study and offers it freely on his website. [[5][RECIPE]]
 
 The biofertilizer is easy to manufacture at home or on-farm, requiring only jars, a bucket with a lid, a fermentation lock, and commonly available ingredients (such as rice, milk, and yeast) from the supermarket. Optional ingredients like basalt rock powder, seaweed meal, and manure may be less accessible but are not required. The recipe steps are simple and easy to follow.
 
@@ -35,7 +41,7 @@ Three local vegetable producers (introduced below) conducted experiments to eval
 
 During the growing season, laboratories conducted several tests (soil analysis, leaf analysis, and crop analysis). Apart from that, the producers also measured BRIX.
 
-"The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[3][JKEMPF]]
+"The foundational idea is that the refractive index (BRIX) of plant sap correlates to the content of dissolved solids, including sugars, and can be used as an overall assessment of plant health." [[6][JKEMPF]]
 
 Measuring BRIX is easy with a refractometer and can be done in the field; a test takes seconds or minutes to complete. The higher the reading, the better plant performance and health. Unfortunately, it only hints at plant health, and one can not make conclusions (like specific nutrient deficiencies) based on its reading.
 
@@ -53,7 +59,7 @@ The gut feelings of the producers and gardeners are relevant to this case study 
 
 The producers in this experiment are all small-scale vegetable producer that grows ecological food on their land. They use sustainable farming practices and do not rely on heavy machinery or equipment. Instead, they rely on hand tools and natural fertilizers to grow a diverse range of vegetables on their 300-1050 square meters. These producers sell most of their ecologically-grown food directly to customers and local businesses or farm stands.
 
-They manage their lands with ideas from _Conservation Agriculture_[[4][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
+They manage their lands with ideas from _Conservation Agriculture_[[7][CA]], such as minimizing soil disturbance and maintaining permanent soil cover.
 
 The producers operate on the west coast of Sweden, in Kungälv, Stenungssund, and Ljungskile (20-60 km north of Gothenburg).
 
@@ -63,9 +69,9 @@ The case study was performed in their market gardens.
 
 #### Timmervikens skafferi
 
-_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (_Pieris brassicae_), inputs with _Bacillus Thurengensis_ inoculants are used[[5][BT]]. Ferric Phosphate pellets are used to control slugs (_Arion vulgaris_)[[6][SLUG]].
+_Timmervikens skafferi_ operates approximately 800 square meters of beds and passages, as well as 250 square meters of greenhouses. The main fertilizer inputs used for growing are horse manure and lucern pellets, and the farm has recently increased its use of cover crops with plans to continue doing so in the future. To control caterpillars of the "large white" (_Pieris brassicae_), inputs with _Bacillus Thurengensis_ inoculants are used[[8][BT]]. Ferric Phosphate pellets are used to control slugs (_Arion vulgaris_)[[9][SLUG]].
 
-The farm practices _no-till_/_no-dig_/_Conservation Agriculture_ management methods[[7][NOTILL]] and actively promotes the soil microbiology.
+The farm practices _no-till_/_no-dig_/_Conservation Agriculture_ management methods[[10][NOTILL]] and actively promotes the soil microbiology.
 
 [BT]: https://en.wikipedia.org/wiki/Bacillus_thuringiensis
 [SLUG]: https://en.wikipedia.org/wiki/Spanish_slug
@@ -95,7 +101,7 @@ The tests were conducted in one of the greenhouses.
 
 ### Bee Urban
 
-Bee Urban[[8][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, beetles, and other insects.
+Bee Urban[[11][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, beetles, and other insects.
 
 Their clients are typically larger businesses and municipalities. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
 TODO!!! Kolla siffrorna.
@@ -116,7 +122,7 @@ The first application of biofertilizer was made to the roots of the tomatoes bef
 
 ### Prepation of substances
 
-Instructions for preparing the biofertilizer used in the experiment are available in [[2][RECIPE]]. In our experiment, we used a version without any manure, as requested by the producers. Instead, we used LAB Serum, which the recipe indicates is a suitable replacement. Instructions for making LAB serum are also available in [[2][RECIPE]].
+Instructions for preparing the biofertilizer used in the experiment are available in [[5][RECIPE]]. In our experiment, we used a version without any manure, as requested by the producers. Instead, we used LAB Serum, which the recipe indicates is a suitable replacement. Instructions for making LAB serum are also available in [[5][RECIPE]].
 
 The biofertilizer used in this experiment included seaweed meal (marked as optional in the recipe) and excluded rock phosphate powder (also marked as optional).
 
@@ -160,13 +166,13 @@ The leaf samples were collected when the tomatoes started to ripen.
 
 Lycopene and vitamin C are important nutrients found in tomatoes and are often used as indicators of tomato quality.
 
-Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[9][MEDSCPC]] and heart disease[[10][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
+Lycopene is a pigment that gives tomatoes their red color and is a powerful antioxidant. It has been linked to several health benefits, including reducing the risk of certain types of cancer[[12][MEDSCPC]] and heart disease[[13][NIHGOV1]], and may also have anti-aging and skin-protecting effects.
 
-Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[11][NIHGOV2]] and heart disease[[12][NIHGOV3]].
+Vitamin C is an essential nutrient to maintain a healthy immune system and is also an antioxidant. In addition, it plays a role in the synthesis of collagen, which helps to keep skin and connective tissue strong, and may also help to reduce the risk of certain types of cancer[[14][NIHGOV2]] and heart disease[[15][NIHGOV3]].
 
 In general, tomatoes higher in lycopene and vitamin C are considered to be of higher quality, as they may provide a greater range of health benefits to consumers.
 
-In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[13][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
+In hindsight, testing for lycopene is not an ideal measurement for comparing tomatoes [[16][LVTOM]], since it closely relates on the ripeness of the tomato. However, since the tomatoes were harvested by the producers at the same time, and considered to have reached a similar level of ripeness, the results are still interesting in this study.
 
 [NIHGOV1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8880080/
 [NIHGOV2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8750500/
@@ -379,7 +385,7 @@ For _Timmervikens skafferi_, the experiment bed had higher levels of both nutrie
 
 Overall, the data does not support any clear conclusions about the potential effects of the biofertilizer.
 
-Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[14][LVLD]].
+Worth noting is a the levels of vitamin C in these tomatoes are 30%-230% higher compared to the "standard tomato" from _Livsmedelsverket's Livsmedelsdatabasen_ (National Food Administration, Sweden - Food database) [[17][LVLD]].
 
 [LVLD]: https://www.livsmedelsverket.se/livsmedelsdatabasen
 
@@ -423,9 +429,9 @@ Each interview and its questions and answers (summarized) are available in the a
 
 The substances (experiment and control) did not do any harm to the crops, quite the opposite. _Branseröd gård_ estimated that the experiment bed had a 300% larger yield than the control. _Timmervikens skafferi_ had ~9% higher yield in the experiment bed. (_Bee Urban_ and _Vävra köksträdgård_ did not measure/take note of yield differences).
 
-_Bee Urban_ observed that the biofertilizer seems to perform at least as well as worm compost[[15][VERM]] and bokashi[[16][BOKASHI]].
+_Bee Urban_ observed that the biofertilizer seems to perform at least as well as worm compost[[18][VERM]] and bokashi[[19][BOKASHI]].
 
-_Branseröd gård_'s control bed had problems with blossom-end rot[[17][BER]] which the experiment bed did not. The other tomato producers did not see any difference concerning pests and diseases.
+_Branseröd gård_'s control bed had problems with blossom-end rot[[20][BER]] which the experiment bed did not. The other tomato producers did not see any difference concerning pests and diseases.
 
 The producers found it easy to mix and apply the biofertilizer in their beds.
 
