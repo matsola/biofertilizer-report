@@ -24,7 +24,7 @@ The study is made possible with the funding of _Leader Södra Bohuslän_[[1][LSB
 [JBV]:https://www.jordbruksverket.se/
 [EU]:https://jordbruksverket.se/stod/programmen-som-finansierar-stoden/eu-fonderna
 
-| [![Leader logo](logos/Leader-EU.png)][JBV] | [![Co-funded by EU logo](logos/EN%20V%20Co-funded%20by_POS.png)][EU] | [![Leader södra bohuslän logo](logos/Logo-LEADER_SODRABOHUSLAN_Fargvit-768x224.png)][LSB] |
+| [![Leader södra bohuslän logo](logos/Logo-LEADER_SODRABOHUSLAN_Fargvit-768x224.png)][LSB] | [![Co-funded by EU logo](logos/EN%20V%20Co-funded%20by_POS.png)][EU] | [![Leader logo](logos/Leader-EU.png)][JBV] |
 |:---:|:---:|:---:|
 
 ## Introduction
