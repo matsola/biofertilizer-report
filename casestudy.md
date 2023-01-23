@@ -101,10 +101,9 @@ The tests were conducted in one of the greenhouses.
 
 ### Bee Urban
 
-Bee Urban[[11][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. They typically create meadow-like environments, often on rooftops, using specific species of flowers that are beneficial for bumble bees, solitary bees, beetles, and other insects.
+Bee Urban[[11][BU]] is a company based in Stockholm, Sweden that specializes in the design, construction, and maintenance of urban gardens that provide habitats for insects, animals, and birds, while also providing recreational areas for humans. Sometimes these gardens also include beds for vegetables.
 
-Their clients are typically larger businesses and municipalities. As of the time of this report, they have ten gardens in the Stockholm area and have tested the biofertilizer on one of them.
-TODO!!! Kolla siffrorna.
+Their clients are typically larger businesses and municipalities. As of the time of this report, they have eight gardens (~5000 square meters) in the Stockholm area. The biofertilizer has been tested in one of their beds.
 
 [BU]: https://beeurban.se/
 
